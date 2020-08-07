@@ -9,15 +9,15 @@
 
 <!-- - Default
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aizwellenstan) -->
+![Aizwellenstan's github stats](https://github-readme-stats.vercel.app/api?username=aizwellenstan) -->
 
 <!-- - Hiding specific stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aizwellenstan&hide=contribs,issues) -->
+![Aizwellenstan's github stats](https://github-readme-stats.vercel.app/api?username=aizwellenstan&hide=contribs,issues) -->
 
 <!-- - Showing icons -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aizwellenstan&hide=issues&show_icons=true)
+![Aizwellenstan's github stats](https://github-readme-stats.vercel.app/api?username=aizwellenstan&hide=issues&show_icons=true)
 
 <!-- - Themes -->
 
