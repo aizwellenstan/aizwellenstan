@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://aizwellenstan.github.io" /><img src="https://github.com/aizwellenstan/unity_VRMViewer/blob/master/Assets/LiveV/Textures/CRS_Stage.png" /></a>
+  <a href="https://aizwellenstan.github.io" /><img src="https://github.com/aizwellenstan/unity_VRMViewer/blob/master/Assets/LiveV/Textures/CRS_Stage.png" height="127px" /></a>
 </p>
 <p align="center">
   <a href="https://github-readme-stats.aizwellenstan.vercel.app/api?username=aizwellenstan&count_private=true"><img src="https://github-readme-stats.aizwellenstan.vercel.app/api?username=aizwellenstan&count_private=true&hide=issues" height="100px;" />
