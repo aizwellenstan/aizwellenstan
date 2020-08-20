@@ -7,3 +7,7 @@
   <a>　</a>
   <a href="https://qiita.com/aizwellenstan"><img src="https://user-images.githubusercontent.com/39142850/88427408-cf994500-ce2d-11ea-9125-a41bc9f0bb2e.png" width="53px;" /></a><a>　</a>
   <p>
+<p align="center">
+  <a href="http://qiita.com/aocattleya"><img src="https://qiita-badge.apiapi.app/s/aizwellenstan/posts.svg" height="17px;" /></a>
+  <a href="http://qiita.com/aocattleya"><img src="https://qiita-badge.apiapi.app/s/aizwellenstan/followers.svg" height="17px;" /></a>
+<p>
