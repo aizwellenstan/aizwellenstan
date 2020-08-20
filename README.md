@@ -1,40 +1,9 @@
-<!-- ### Demo
-
-[![ReadMe Card](https://github-readme-stats.aizwellenstan.vercel.app
-api/pin/?username=aizwellenstan&repo=github-readme-stats)](https://github.com/aizwellenstan/github-readme-stats)
-
-
-[![ReadMe Card](https://github-readme-stats.aizwellenstan.vercel.app/api/pin/?username=aizwellenstan&repo=github-readme-stats&show_owner=true)](https://github.com/aizwellenstan/github-readme-stats) -->
-
-<!-- ### All Demos -->
-
-<!-- - Default
-
-![Aizwellenstan's github stats](https://github-readme-stats.aizwellenstan.vercel.app/api?username=aizwellenstan) -->
-
-<!-- - Hiding specific stats
-
-![Aizwellenstan's github stats](https://github-readme-stats.aizwellenstan.vercel.app/api?username=aizwellenstan&hide=contribs,issues) -->
-
-<!-- - Showing icons -->
-
-![Aizwellenstan's github stats](https://github-readme-stats.aizwellenstan.vercel.app/api?username=aizwellenstan&hide=issues&show_icons=true)
-
-<!-- - Themes -->
-
-<!-- 任意の[テーマ](#themes)を選択できます。 -->
-
-<!-- ![Anurag's github stats](https://github-readme-stats.aizwellenstan.vercel.app/api?username=aizwellenstan&show_icons=true&theme=radical) -->
-
-<!-- - Customizing stats card -->
-
-<!-- ![Anurag's github stats](https://github-readme-stats.aizwellenstan.vercel.app/api/?username=aizwellenstan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
-
-<!-- - Customizing repo card
-
-![Customized Card](https://github-readme-stats.aizwellenstan.vercel.app/api/pin?username=aizwellenstan&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) -->
-
-<!-- - Top languages -->
-
-[![Top Langs](https://github-readme-stats.aizwellenstan.vercel.app/api/top-langs/?username=aizwellenstan)](https://github.com/aizwellenstan/github-readme-stats)
-
+<p align="center">
+  <a href="https://aizwellenstan.github.io" /><img src="https://github.com/aizwellenstan/unity_VRMViewer/blob/master/Assets/LiveV/Textures/CRS_Stage.png" /></a>
+</p>
+<p align="center">
+  <a href="https://github-readme-stats.aizwellenstan.vercel.app/api?username=aizwellenstan&count_private=true"><img src="https://github-readme-stats.aizwellenstan.vercel.app/api?username=aizwellenstan&count_private=true&hide=issues" height="100px;" />
+  <a href="https://github-readme-stats.aizwellenstan.vercel.app/api/top-langs/?username=aizwellenstan&layout=compact"><img src="https://github-readme-stats.aizwellenstan.vercel.app/api/top-langs/?username=aizwellenstan&layout=compact" height="100px;" /></a></a><a>　</a>
+  <a>　</a>
+  <a href="https://qiita.com/aizwellenstan"><img src="https://user-images.githubusercontent.com/39142850/88427408-cf994500-ce2d-11ea-9125-a41bc9f0bb2e.png" width="53px;" /></a><a>　</a>
+  <p>
