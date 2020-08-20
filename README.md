@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://aizwellenstan.github.io" /><img src="https://github.com/aizwellenstan/aizwellenstan/blob/master/banner.png" height="127px" /></a>
+  <a href="https://aizwellenstan.github.io" /><img src="https://github.com/aizwellenstan/aizwellenstan/blob/master/banner.png" /></a>
 </p>
 <p align="center">
   <a href="https://github-readme-stats.aizwellenstan.vercel.app/api?username=aizwellenstan&count_private=true"><img src="https://github-readme-stats.aizwellenstan.vercel.app/api?username=aizwellenstan&count_private=true&hide=issues" height="100px;" />
