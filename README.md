@@ -1,7 +1,8 @@
 <p>! register IB https://ibkr.com/referral/zhenwei375</p>
 <p>! Im currently selling trading rotbots on mql4 store</p>
 <p>
-  https://www.mql5.com/en/market/product/63652?source=Site+Market+MT4+Search+Rating004%3aTraderAiz+btp+Pro
+  https://www.mql5.com/en/market/product/64287
+  https://www.mql5.com/en/market/product/63652
 </p>
 
 <p align="center">
