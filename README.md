@@ -5,7 +5,7 @@
   https://www.mql5.com/en/market/product/63652
 </p>
 
-<div> style="display: block;
+<div style="display: block;
     margin-left: auto;
     margin-right: auto;
     height: 300px; ">
