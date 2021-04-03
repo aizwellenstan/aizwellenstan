@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://aizwellenstan.github.io" /><img src="https://github.com/aizwellenstan/unity_VRMViewer/blob/master/Assets/LiveV/Textures/CRS_Stage.png" height="300px"/></a>| <img src="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order/blob/master/FateGrandOrder.png" />
+  <a href="https://aizwellenstan.github.io" /><img src="https://github.com/aizwellenstan/unity_VRMViewer/blob/master/Assets/LiveV/Textures/CRS_Stage.png" height="300px"/></a>| <img src="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order/blob/master/FateGrandOrder.png"  height="300px"/>
 </p>
 
 <a href="https://github.com/aizwellenstan/github-profile-trophy"><h2> Github Trophy</h2></a>
