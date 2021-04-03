@@ -5,7 +5,7 @@
   https://www.mql5.com/en/market/product/63652
 </p>
 
-Before|After
+Unity MMD|Photoshop
 :-:|:-:
 <a href="https://aizwellenstan.github.io" /><img src="https://github.com/aizwellenstan/unity_VRMViewer/blob/master/Assets/LiveV/Textures/CRS_Stage.png" height="300px"/></a>|<img src="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order/blob/master/FateGrandOrder.png"  height="300px"/>
 
