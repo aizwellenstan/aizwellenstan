@@ -2,13 +2,11 @@
 <p>! Im currently selling trading rotbots on mql4 store</p>
 USStockTradingRobot|ETF/ForexTradingRobot
 :-:|:-:
-<a href="https://www.youtube.com/channel/UC4fZRTNdAcHJMDm71MyMkew" /><img src="https://github.com/aizwellenstan/python-Stock-trading-robot-Interactive-Broker/blob/master/Youtube.png"/></a>
-|<a href="https://www.mql5.com/en/market/product/63652" /><img src="https://c.mql5.com/31/585/traderaizbtpprodayscalper-screen-6753.png"/></a>
+<a href="https://www.youtube.com/channel/UC4fZRTNdAcHJMDm71MyMkew" /><img src="https://github.com/aizwellenstan/python-Stock-trading-robot-Interactive-Broker/blob/master/Youtube.png"/></a>|<a href="https://www.mql5.com/en/market/product/63652" /><img src="https://c.mql5.com/31/585/traderaizbtpprodayscalper-screen-6753.png"/></a>
 
 Unity MMD|Photoshop
 :-:|:-:
-<a href="https://aizwellenstan.github.io" /><img src="https://github.com/aizwellenstan/unity_VRMViewer/blob/master/Assets/LiveV/Textures/CRS_Stage.png"/></a>
-|<img src="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order/blob/master/FateGrandOrder.png"/>
+<a href="https://aizwellenstan.github.io" /><img src="https://github.com/aizwellenstan/unity_VRMViewer/blob/master/Assets/LiveV/Textures/CRS_Stage.png"/></a>|<img src="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order/blob/master/FateGrandOrder.png"/>
 
 <a href="https://github.com/aizwellenstan/github-profile-trophy"><h2> Github Trophy</h2></a>
 <a href="https://github.com/aizwellenstan/github-profile-trophy">
