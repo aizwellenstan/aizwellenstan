@@ -1,8 +1,9 @@
+<p>! Im currently selling trading rotbots on mql4 store</p>
 <p>! register IB https://ibkr.com/referral/zhenwei375</p>
 
 USStockTradingRobot|ETFForexTradingRobot
 :-:|:-:
-<a href="https://www.youtube.com/channel/UC4fZRTNdAcHJMDm71MyMkew" /><img src="https://github.com/aizwellenstan/python-Stock-trading-robot-Interactive-Broker/blob/master/Youtube.png"/></a>|<a href="https://www.mql5.com/en/market/product/63652" /><img src="https://c.mql5.com/31/585/traderaizbtpprodayscalper-screen-6753.png"/></a>
+<a href="https://www.youtube.com/channel/UC4fZRTNdAcHJMDm71MyMkew" /><img src="https://github.com/aizwellenstan/python-Stock-trading-robot-Interactive-Broker/blob/master/Youtube.png" width="300px"/></a>|<a href="https://www.mql5.com/en/market/product/63652" /><img src="https://c.mql5.com/31/585/traderaizbtpprodayscalper-screen-6753.png"/></a>
 
 Unity MMD|Photoshop
 :-:|:-:
