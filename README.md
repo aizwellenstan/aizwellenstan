@@ -5,12 +5,17 @@
   https://www.mql5.com/en/market/product/63652
 </p>
 
-<p style="display: block;
+<div> style="display: block;
     margin-left: auto;
     margin-right: auto;
     height: 300px; ">
-  <a href="https://aizwellenstan.github.io" /><img src="https://github.com/aizwellenstan/unity_VRMViewer/blob/master/Assets/LiveV/Textures/CRS_Stage.png" height="300px"/></a> <img src="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order/blob/master/FateGrandOrder.png"  height="300px"/>
-</p>
+    <div>
+  <a href="https://aizwellenstan.github.io" /><img src="https://github.com/aizwellenstan/unity_VRMViewer/blob/master/Assets/LiveV/Textures/CRS_Stage.png" height="300px"/></a>
+  </div>
+  <div>
+  <img src="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order/blob/master/FateGrandOrder.png"  height="300px"/>
+  </div>
+</div>
 
 <a href="https://github.com/aizwellenstan/github-profile-trophy"><h2> Github Trophy</h2></a>
 <a href="https://github.com/aizwellenstan/github-profile-trophy">
