@@ -9,6 +9,22 @@
   <a href="https://aizwellenstan.github.io" /><img src="https://github.com/aizwellenstan/unity_VRMViewer/blob/master/Assets/LiveV/Textures/CRS_Stage.png" height="300px"/></a>| <img src="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order/blob/master/FateGrandOrder.png"  height="300px"/>
 </p>
 
+img[alt$=">"] {
+  float: right;
+}
+
+img[alt$="<"] {
+  float: left;
+}
+
+img[alt$="><"] {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  float: none!important;
+}
+
 <a href="https://github.com/aizwellenstan/github-profile-trophy"><h2> Github Trophy</h2></a>
 <a href="https://github.com/aizwellenstan/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=aizwellenstan&column=7"/>
