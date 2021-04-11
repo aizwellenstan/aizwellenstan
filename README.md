@@ -6,7 +6,7 @@ register Interactive Broker https://ibkr.com/referral/zhenwei375|https://www.mql
 
 Photoshop|AfterEffects
 :-:|:-:
-<a href="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order"><img src="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order/blob/master/FateGrandOrder.png"/></a>|<a href="https://www.youtube.com/channel/UC4fZRTNdAcHJMDm71MyMkew?sub_confirmation=1" /><img src="https://github.com/aizwellenstan/AfterEffects_FX_RainDrop/blob/master/raindrop.gif"/></a>|
+<a href="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order"><img src="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order/blob/master/FateGrandOrder.png"/></a>|<a href="https://www.youtube.com/channel/UC4fZRTNdAcHJMDm71MyMkew?sub_confirmation=1" /><img src="https://github.com/aizwellenstan/AfterEffects_FX_RainDrop/blob/master/raindrop.gif" width="1400px"/></a>|
 
 MMD
 :-:
@@ -14,7 +14,7 @@ MMD
 
 <a href="https://github.com/aizwellenstan/github-profile-trophy"><h2> Github Trophy</h2></a>
 <a href="https://github.com/aizwellenstan/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=aizwellenstan&column=7" width="700px"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aizwellenstan&column=7" height="700px"/>
 </a>
 ---
 <!-- <details>
