@@ -10,7 +10,7 @@ Photoshop|AfterEffects
 
 AfterEffects|MMD
 :-:|:-:
-<a href="https://github.com/aizwellenstan/AfterEffects_FX_Decay" /><img src="https://github.com/aizwellenstan/AfterEffects_FX_Decay/blob/master/decay.gif" width="400px"/></a>|<a href="https://aizwellenstan.github.io" /><img src="https://github.com/aizwellenstan/unity_VRMViewer/blob/master/Assets/LiveV/Textures/CRS_Stage.png" height="200px"/></a>
+<a href="https://github.com/aizwellenstan/AfterEffects_FX_Decay" /><img src="https://github.com/aizwellenstan/AfterEffects_FX_Decay/blob/master/decay.gif" width="500px"/></a>|<a href="https://aizwellenstan.github.io" /><img src="https://github.com/aizwellenstan/unity_VRMViewer/blob/master/Assets/LiveV/Textures/CRS_Stage.png" height="200px"/></a>
 
 <a href="https://github.com/aizwellenstan/github-profile-trophy"><h2> Github Trophy</h2></a>
 <a href="https://github.com/aizwellenstan/github-profile-trophy">
