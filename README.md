@@ -9,7 +9,7 @@ Photoshop|AfterEffects
 <a href="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order"><img src="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order/blob/master/FateGrandOrder.png"/></a>|<a href="https://github.com/aizwellenstan/AfterEffects_FX_RainDrop" /><img src="https://github.com/aizwellenstan/AfterEffects_FX_RainDrop/blob/master/raindrop.gif" width="1200px"/></a>
 
 AfterEffects|MMD
-:-:
+:-:|:-:
 <a href="https://github.com/aizwellenstan/AfterEffects_FX_Decay" /><img src="https://github.com/aizwellenstan/AfterEffects_FX_Decay/blob/master/decay.gif" width="1200px"/></a>|<a href="https://aizwellenstan.github.io" /><img src="https://github.com/aizwellenstan/unity_VRMViewer/blob/master/Assets/LiveV/Textures/CRS_Stage.png" height="200px"/></a>
 
 <a href="https://github.com/aizwellenstan/github-profile-trophy"><h2> Github Trophy</h2></a>
