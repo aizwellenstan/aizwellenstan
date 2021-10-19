@@ -1,4 +1,3 @@
-俺⁉俺‼俺俺俺俺‼ Ahh～↑↑↑💥💥真夏🌞🌴🏄🎇🎆🌺のJamboree〜〜〜〜‼<br/>
 Im currently selling trading rotbots on mql4 store
 Python USStock/JPStock TradingRobot|Crypto/ETF/Metals/Oil/Gas/ForexTradingRobot
 :-:|:-:
