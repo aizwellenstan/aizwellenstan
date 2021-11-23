@@ -1,4 +1,8 @@
 Im currently selling trading rotbots on mql4 store
+
+[![Github](https://img.shields.io/github/followers/aizwellenstan?label=Follow&style=social)](https://github.com/aizwellenstan)
+[![Twitter](https://img.shields.io/twitter/follow/aizwellenstan?style=social)](https://twitter.com/aizwellenstan)
+
 Python USStock/JPStock TradingRobot|Crypto/ETF/Metals/Oil/Gas/ForexTradingRobot
 :-:|:-:
 <a href="https://www.youtube.com/channel/UC4fZRTNdAcHJMDm71MyMkew?sub_confirmation=1" /><img src="https://github.com/aizwellenstan/python-Stock-trading-robot-Interactive-Broker/blob/master/Youtube.png" width="700px"/></a>|<a href="https://www.mql5.com/en/market/product/63652" /><img src="https://c.mql5.com/31/585/traderaizbtpprodayscalper-screen-6753.png"/></a>
