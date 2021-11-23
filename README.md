@@ -1,8 +1,8 @@
 [![Github](https://img.shields.io/github/followers/aizwellenstan?label=Follow&style=social)](https://github.com/aizwellenstan)
 [![Twitter](https://img.shields.io/twitter/follow/aizwellenstan?style=social)](https://twitter.com/aizwellenstan)
 
-Start Your Algo Trading Using Python
-[OpenInteractiveBrokerAccount](https://ibkr.com/referral/zhenwei375)
+Start Your Algo Trading Using Python InteractiveBrokers and [ibinsync](https://github.com/erdewit/ib_insync)
+[Open InteractiveBrokers Account](https://ibkr.com/referral/zhenwei375)
 
 Im currently selling trading rotbots on mql4 store
 
