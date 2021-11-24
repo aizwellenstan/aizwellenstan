@@ -1,7 +1,7 @@
 [![Github](https://img.shields.io/github/followers/aizwellenstan?label=Follow&style=social)](https://github.com/aizwellenstan)
 [![Twitter](https://img.shields.io/twitter/follow/aizwellenstan?style=social)](https://twitter.com/aizwellenstan)
 
-Start Your Algo Trading Using Python and InteractiveBrokers
+Start Your Algorithm Trading Using Python and InteractiveBrokers
 
 [Open InteractiveBrokers Account](https://ibkr.com/referral/zhenwei375)
 
