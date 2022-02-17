@@ -30,8 +30,8 @@ AfterEffects|MMD
 </details> -->
 
 ### Stats
-
 [![aizwellentan GitHub stats](https://github-readme-stats.aizwellenstan.vercel.app/api?username=aizwellenstan&count_private=true&show_icons=true&theme=dark)](https://github.com/aizwellenstan)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aizwellenstan&layout=compact&theme=chartreuse-dark)](https://github.com/aizwellenstan)
+:-:|:-:
 
 ### Languages
 
