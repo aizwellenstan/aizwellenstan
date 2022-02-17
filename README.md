@@ -48,6 +48,28 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/aizwellenstan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
+<!-- [![Github](https://img.shields.io/github/followers/aizwellenstan?label=Follow&style=social)](https://github.com/aizwellenstan)
+[![Twitter](https://img.shields.io/twitter/follow/aizwellenstan?style=social)](https://twitter.com/aizwellenstan) -->
+
+### Start Your Algorithm Trading Using Python and InteractiveBrokers
+
+[Open InteractiveBrokers Account](https://ibkr.com/referral/zhenwei375)
+
+Im currently selling trading rotbots on mql4 store
+
+Python USStock/JPStock TradingRobot|Crypto/ETF/Metals/Oil/Gas/ForexTradingRobot
+:-:|:-:
+<a href="https://www.youtube.com/channel/UC4fZRTNdAcHJMDm71MyMkew?sub_confirmation=1" /><img src="https://github.com/aizwellenstan/python-Stock-trading-robot-Interactive-Broker/blob/master/Youtube.png" width="700px"/></a>|<a href="https://www.mql5.com/en/market/product/63652" /><img src="https://c.mql5.com/31/585/traderaizbtpprodayscalper-screen-6753.png"/></a>
+register Interactive Broker https://ibkr.com/referral/zhenwei375|https://www.mql5.com/en/market/product/63652
+
+Photoshop|AfterEffects
+:-:|:-:
+<a href="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order"><img src="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order/blob/master/FateGrandOrder.png"/></a>|<a href="https://github.com/aizwellenstan/AfterEffects_FX_RainDrop" /><img src="https://github.com/aizwellenstan/AfterEffects_FX_RainDrop/blob/master/raindrop.gif" width="1200px"/></a>
+
+AfterEffects|MMD
+:-:|:-:
+<a href="https://github.com/aizwellenstan/AfterEffects_FX_Decay" /><img src="https://github.com/aizwellenstan/AfterEffects_FX_Decay/blob/master/decay.gif" width="500px"/></a>|<a href="https://aizwellenstan.github.io" /><img src="https://github.com/aizwellenstan/unity_VRMViewer/blob/master/Assets/LiveV/Textures/CRS_Stage.png" height="200px"/></a>
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -137,29 +159,6 @@
 </details>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="aizwellenstan's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=aizwellenstan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
-<!-- [![Github](https://img.shields.io/github/followers/aizwellenstan?label=Follow&style=social)](https://github.com/aizwellenstan)
-[![Twitter](https://img.shields.io/twitter/follow/aizwellenstan?style=social)](https://twitter.com/aizwellenstan) -->
-
-Start Your Algorithm Trading Using Python and InteractiveBrokers
-
-[Open InteractiveBrokers Account](https://ibkr.com/referral/zhenwei375)
-
-Im currently selling trading rotbots on mql4 store
-
-Python USStock/JPStock TradingRobot|Crypto/ETF/Metals/Oil/Gas/ForexTradingRobot
-:-:|:-:
-<a href="https://www.youtube.com/channel/UC4fZRTNdAcHJMDm71MyMkew?sub_confirmation=1" /><img src="https://github.com/aizwellenstan/python-Stock-trading-robot-Interactive-Broker/blob/master/Youtube.png" width="700px"/></a>|<a href="https://www.mql5.com/en/market/product/63652" /><img src="https://c.mql5.com/31/585/traderaizbtpprodayscalper-screen-6753.png"/></a>
-register Interactive Broker https://ibkr.com/referral/zhenwei375|https://www.mql5.com/en/market/product/63652
-
-Photoshop|AfterEffects
-:-:|:-:
-<a href="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order"><img src="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order/blob/master/FateGrandOrder.png"/></a>|<a href="https://github.com/aizwellenstan/AfterEffects_FX_RainDrop" /><img src="https://github.com/aizwellenstan/AfterEffects_FX_RainDrop/blob/master/raindrop.gif" width="1200px"/></a>
-
-AfterEffects|MMD
-:-:|:-:
-<a href="https://github.com/aizwellenstan/AfterEffects_FX_Decay" /><img src="https://github.com/aizwellenstan/AfterEffects_FX_Decay/blob/master/decay.gif" width="500px"/></a>|<a href="https://aizwellenstan.github.io" /><img src="https://github.com/aizwellenstan/unity_VRMViewer/blob/master/Assets/LiveV/Textures/CRS_Stage.png" height="200px"/></a>
 
 <a href="https://github.com/aizwellenstan/github-profile-trophy"><h2> Github Trophy</h2></a>
 <a href="https://github.com/aizwellenstan/github-profile-trophy">
