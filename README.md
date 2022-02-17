@@ -5,41 +5,48 @@
 </td>
   </tr>
 </table>
+<h3 align="center">
+  Welcome to aizwellenstan's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-[![Github](https://img.shields.io/github/followers/aizwellenstan?label=Follow&style=social)](https://github.com/aizwellenstan)
-[![Twitter](https://img.shields.io/twitter/follow/aizwellenstan?style=social)](https://twitter.com/aizwellenstan)
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/Aizwellenstan/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
 
-Start Your Algorithm Trading Using Python and InteractiveBrokers
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/c/UC4fZRTNdAcHJMDm71MyMkew"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/aizwellenstan"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <!-- <a href="https://discord.gg/" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; -->
+  <!-- <a href="https://dev.to/"><img width="32px" alt="Dev.to" title=" Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; -->
+  <a href="https://ko-fi.com/traderaiz"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <!-- <a href=""><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+</p>
 
-[Open InteractiveBrokers Account](https://ibkr.com/referral/zhenwei375)
+<br/>
 
-Im currently selling trading rotbots on mql4 store
-
-Python USStock/JPStock TradingRobot|Crypto/ETF/Metals/Oil/Gas/ForexTradingRobot
-:-:|:-:
-<a href="https://www.youtube.com/channel/UC4fZRTNdAcHJMDm71MyMkew?sub_confirmation=1" /><img src="https://github.com/aizwellenstan/python-Stock-trading-robot-Interactive-Broker/blob/master/Youtube.png" width="700px"/></a>|<a href="https://www.mql5.com/en/market/product/63652" /><img src="https://c.mql5.com/31/585/traderaizbtpprodayscalper-screen-6753.png"/></a>
-register Interactive Broker https://ibkr.com/referral/zhenwei375|https://www.mql5.com/en/market/product/63652
-
-Photoshop|AfterEffects
-:-:|:-:
-<a href="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order"><img src="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order/blob/master/FateGrandOrder.png"/></a>|<a href="https://github.com/aizwellenstan/AfterEffects_FX_RainDrop" /><img src="https://github.com/aizwellenstan/AfterEffects_FX_RainDrop/blob/master/raindrop.gif" width="1200px"/></a>
-
-AfterEffects|MMD
-:-:|:-:
-<a href="https://github.com/aizwellenstan/AfterEffects_FX_Decay" /><img src="https://github.com/aizwellenstan/AfterEffects_FX_Decay/blob/master/decay.gif" width="500px"/></a>|<a href="https://aizwellenstan.github.io" /><img src="https://github.com/aizwellenstan/unity_VRMViewer/blob/master/Assets/LiveV/Textures/CRS_Stage.png" height="200px"/></a>
-
-<a href="https://github.com/aizwellenstan/github-profile-trophy"><h2> Github Trophy</h2></a>
-<a href="https://github.com/aizwellenstan/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=aizwellenstan&column=7"/>
-</a>
----
-<!-- <details>
-<summary><b>more detail</b></summary>
-</details> -->
-
-### Stats
-[![aizwellentan GitHub stats](https://github-readme-stats.aizwellenstan.vercel.app/api?username=aizwellenstan&count_private=true&show_icons=true&theme=dark)](https://github.com/aizwellenstan)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aizwellenstan&layout=compact&theme=chartreuse-dark)](https://github.com/aizwellenstan)
-:-:|:-:
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- YouTube stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
+<p align="center">
+  <a href="https://www.youtube.com/channel/UC4fZRTNdAcHJMDm71MyMkew?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UC4fZRTNdAcHJMDm71MyMkew?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+  <a href="https://www.youtube.com/channel/UC4fZRTNdAcHJMDm71MyMkew">
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UC4fZRTNdAcHJMDm71MyMkew?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+  <a href="https://github.com/aizwellenstan?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/aizwellenstan"/></a>
+  <a href="https://github.com/aizwellenstan?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/aizwellenstan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
 
 ### Languages
 
@@ -86,6 +93,9 @@ AfterEffects|MMD
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS" height="60" style="vertical-align:top; margin:4px">
+<!-- <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
+<a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" alt="Terraform" height="60" style="vertical-align:top; margin:4px"> -->
 <!-- <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png" alt="visualstudio" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>  -->
@@ -93,17 +103,76 @@ AfterEffects|MMD
 <!-- <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> </a>  -->
 <!-- <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>  -->
 <!-- <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  -->
-<a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+
 <!-- <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> -->
 <!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" height="60" style="vertical-align:top; margin:4px"> -->
 <!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="Kubernetes" height="60" style="vertical-align:top; margin:4px"> -->
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" alt="Terraform" height="60" style="vertical-align:top; margin:4px">
+
  <!-- <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  -->
 </p>
 
-<b>🔥 Github Streaks</b>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aizwellenstan&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="aizwellenstan" /></p>
+<!-- <b>🔥 Github Streaks</b>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aizwellenstan&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="aizwellenstan" /></p> -->
+
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="aizwellenstan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aizwellenstan&theme=monokai-metallian&hide_border=true"/>
+</p>
+
+<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+
+
+## 📊 Github stats
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/aizwellenstan/github-readme-stats"><img alt="aizwellenstan's Github Stats" src="https://github-readme-stats.aizwellenstan.vercel.app/api/?username=aizwellenstan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFAFA" height="192px"/></a>
+  <a href="https://github.com/aizwellenstan/github-readme-stats"><img alt="aizwellenstan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aizwellenstan&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="aizwellenstan's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=aizwellenstan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
+<!-- [![Github](https://img.shields.io/github/followers/aizwellenstan?label=Follow&style=social)](https://github.com/aizwellenstan)
+[![Twitter](https://img.shields.io/twitter/follow/aizwellenstan?style=social)](https://twitter.com/aizwellenstan) -->
+
+Start Your Algorithm Trading Using Python and InteractiveBrokers
+
+[Open InteractiveBrokers Account](https://ibkr.com/referral/zhenwei375)
+
+Im currently selling trading rotbots on mql4 store
+
+Python USStock/JPStock TradingRobot|Crypto/ETF/Metals/Oil/Gas/ForexTradingRobot
+:-:|:-:
+<a href="https://www.youtube.com/channel/UC4fZRTNdAcHJMDm71MyMkew?sub_confirmation=1" /><img src="https://github.com/aizwellenstan/python-Stock-trading-robot-Interactive-Broker/blob/master/Youtube.png" width="700px"/></a>|<a href="https://www.mql5.com/en/market/product/63652" /><img src="https://c.mql5.com/31/585/traderaizbtpprodayscalper-screen-6753.png"/></a>
+register Interactive Broker https://ibkr.com/referral/zhenwei375|https://www.mql5.com/en/market/product/63652
+
+Photoshop|AfterEffects
+:-:|:-:
+<a href="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order"><img src="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order/blob/master/FateGrandOrder.png"/></a>|<a href="https://github.com/aizwellenstan/AfterEffects_FX_RainDrop" /><img src="https://github.com/aizwellenstan/AfterEffects_FX_RainDrop/blob/master/raindrop.gif" width="1200px"/></a>
+
+AfterEffects|MMD
+:-:|:-:
+<a href="https://github.com/aizwellenstan/AfterEffects_FX_Decay" /><img src="https://github.com/aizwellenstan/AfterEffects_FX_Decay/blob/master/decay.gif" width="500px"/></a>|<a href="https://aizwellenstan.github.io" /><img src="https://github.com/aizwellenstan/unity_VRMViewer/blob/master/Assets/LiveV/Textures/CRS_Stage.png" height="200px"/></a>
+
+<a href="https://github.com/aizwellenstan/github-profile-trophy"><h2> Github Trophy</h2></a>
+<a href="https://github.com/aizwellenstan/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=aizwellenstan&column=7"/>
+</a>
+---
+<!-- <details>
+<summary><b>more detail</b></summary>
+</details> -->
+
+<!-- ### Stats
+[![aizwellentan GitHub stats](https://github-readme-stats.aizwellenstan.vercel.app/api?username=aizwellenstan&count_private=true&show_icons=true&theme=dark)](https://github.com/aizwellenstan)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aizwellenstan&layout=compact&theme=chartreuse-dark)](https://github.com/aizwellenstan)
+:-:|:-: -->
 
 <p align="center">
   <!-- <a href="https://github-readme-stats.aizwellenstan.vercel.app/api?username=aizwellenstan&count_private=true"><img src="https://github-readme-stats.aizwellenstan.vercel.app/api?username=aizwellenstan&count_private=true&hide=issues" height="100px;" />
@@ -116,3 +185,4 @@ AfterEffects|MMD
   <a href="http://qiita.com/aizwellenstan"><img src="https://qiita-badge.apiapi.app/s/aizwellenstan/posts.svg" height="17px;" /></a>
   <a href="http://qiita.com/aizwellenstan"><img src="https://qiita-badge.apiapi.app/s/aizwellenstan/followers.svg" height="17px;" /></a>
 <p>
+
