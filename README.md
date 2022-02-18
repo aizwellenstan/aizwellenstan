@@ -1,4 +1,4 @@
-<table border="0">
+<table style="border:0px;">
   <tr>
     <td valign="top"><img alt="Visitors" src="https://komarev.com/ghpvc/?username=aizwellenstan&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/></td>
     <td valign="top"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/aizwellenstan/aizwellenstan?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
