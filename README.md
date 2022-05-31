@@ -86,6 +86,7 @@ AfterEffects|MMD
 
 ### Technologies
 
+![Maya](https://img.shields.io/badge/-Maya-000?&logo=Maya)
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
