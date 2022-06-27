@@ -72,6 +72,7 @@ AfterEffects|MMD
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C++](https://img.shields.io/badge/-C++-000?&logo=C++)
 ![C#](https://img.shields.io/badge/-CSharp-000?&logo=CSharp)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
