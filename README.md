@@ -106,10 +106,12 @@ AfterEffects|MMD
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 ![RubyOnRails](https://img.shields.io/badge/-RubyOnRails-000?&logo=RubyOnRails)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
-![CentOS](https://img.shields.io/badge/-CentOS-000?&logo=CentOS)
 <!-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform) -->
+
+### OS
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
+![CentOS](https://img.shields.io/badge/-CentOS-000?&logo=CentOS)
 
 ### 👨‍💻 Tools:
 
