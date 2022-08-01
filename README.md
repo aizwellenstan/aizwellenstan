@@ -63,7 +63,7 @@ https://discord.gg/CbpUY5kg
 
 Photoshop|AfterEffects
 :-:|:-:
-<a href="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order"><img src="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order/blob/master/FateGrandOrder.png"/></a>|<a href="https://github.com/aizwellenstan/AfterEffects_FX_RainDrop" /><img src="https://github.com/aizwellenstan/AfterEffects_FX_RainDrop/blob/master/raindrop.gif" width="1200px"/></a>
+<a href="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order" width="1200px"><img src="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order/blob/master/FateGrandOrder.png"/></a>|<a href="https://github.com/aizwellenstan/AfterEffects_FX_RainDrop" /><img src="https://github.com/aizwellenstan/AfterEffects_FX_RainDrop/blob/master/raindrop.gif" width="1200px"/></a>
 
 AfterEffects|MMD
 :-:|:-:
@@ -138,10 +138,15 @@ AfterEffects|MMD
 <!-- <b>🔥 Github Streaks</b>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aizwellenstan&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="aizwellenstan" /></p> -->
 
-[![](https://raw.githubusercontent.com/aizwellenstan/aizwellenstan/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/aizwellenstan/aizwellenstan/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/aizwellenstan/aizwellenstan/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<summary>💻 GitHub Profile Stats</summary>
+<a href="https://github.com/aizwellenstan/github-readme-stats"><img alt="aizwellenstan's Github Stats" src="https://github-readme-stats.aizwellenstan.vercel.app/api/?username=aizwellenstan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFAFA" height="192px"/></a>
+
+[![](https://raw.githubusercontent.com/aizwellenstan/aizwellenstan/master/profile-summary-card-output/radical/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/aizwellenstan/aizwellenstan/master/profile-summary-card-output/radical/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/aizwellenstan/aizwellenstan/master/profile-summary-card-output/radical/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ![](https://komarev.com/ghpvc/?username=aizwellenstan&color=green)
+<br/>
+<a href="https://github.com/aizwellenstan/github-readme-stats"><img alt="aizwellenstan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aizwellenstan&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 
 ## 🔥 Streak stats
 
