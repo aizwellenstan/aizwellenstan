@@ -63,7 +63,7 @@ https://discord.gg/CbpUY5kg
 
 Photoshop|AfterEffects
 :-:|:-:
-<a href="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order" width="1200px"><img src="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order/blob/master/FateGrandOrder.png"/></a>|<a href="https://github.com/aizwellenstan/AfterEffects_FX_RainDrop" /><img src="https://github.com/aizwellenstan/AfterEffects_FX_RainDrop/blob/master/raindrop.gif" width="1200px"/></a>
+<a href="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order"><img src="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order/blob/master/FateGrandOrder.png"/></a>|<a href="https://github.com/aizwellenstan/AfterEffects_FX_RainDrop" /><img src="https://github.com/aizwellenstan/AfterEffects_FX_RainDrop/blob/master/raindrop.gif"/></a>
 
 AfterEffects|MMD
 :-:|:-:
