@@ -138,6 +138,11 @@ AfterEffects|MMD
 <!-- <b>🔥 Github Streaks</b>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aizwellenstan&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="aizwellenstan" /></p> -->
 
+[![](https://raw.githubusercontent.com/aizwellenstan/aizwellenstan/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/aizwellenstan/aizwellenstan/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/aizwellenstan/aizwellenstan/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://komarev.com/ghpvc/?username=aizwellenstan&color=green)
+
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
@@ -186,4 +191,3 @@ AfterEffects|MMD
   <a href="http://qiita.com/aizwellenstan"><img src="https://qiita-badge.apiapi.app/s/aizwellenstan/posts.svg" height="17px;" /></a>
   <a href="http://qiita.com/aizwellenstan"><img src="https://qiita-badge.apiapi.app/s/aizwellenstan/followers.svg" height="17px;" /></a>
 <p>
-
