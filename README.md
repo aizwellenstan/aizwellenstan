@@ -61,7 +61,7 @@ Python USStock/JPStock TradingRobot|Crypto/ETF/Metals/Oil/Gas/ForexTradingRobot
 register Interactive Broker https://ibkr.com/referral/zhenwei375|https://www.mql5.com/en/market/product/63652
 https://discord.gg/CbpUY5kg
 
-Photoshop|AfterEffects
+Photoshop <img width=500/>|AfterEffects <img width=500/>
 :-:|:-:
 <a href="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order"><img src="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order/blob/master/FateGrandOrder.png"/></a>|<a href="https://github.com/aizwellenstan/AfterEffects_FX_RainDrop" /><img src="https://github.com/aizwellenstan/AfterEffects_FX_RainDrop/blob/master/raindrop.gif"/></a>
 
