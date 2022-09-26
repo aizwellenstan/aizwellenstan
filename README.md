@@ -75,7 +75,7 @@ Photoshop|Photoshop
 
 AfterEffects|AfterEffects
 :-:|:-:
-<a href="https://github.com/aizwellenstan/AfterEffects_FX_RainDrop"><img src="https://github.com/aizwellenstan/AfterEffects_FX_RainDrop/blob/master/raindrop.gif" width=500/></a>|<a href="https://github.com/aizwellenstan/AfterEffects_FX_Decay"><img src="https://github.com/aizwellenstan/AfterEffects_FX_Decay/blob/master/decay.gif" width="500px"/></a>
+<a href="https://github.com/aizwellenstan/AfterEffects_FX_RainDrop"><img src="https://github.com/aizwellenstan/AfterEffects_FX_RainDrop/blob/master/raindrop.gif" width="500"/></a>|<a href="https://github.com/aizwellenstan/AfterEffects_FX_Decay"><img src="https://github.com/aizwellenstan/AfterEffects_FX_Decay/blob/master/decay.gif" width="500"/></a>
 
 Unity|Unreal
 :-:|:-:
