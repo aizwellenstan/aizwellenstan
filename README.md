@@ -77,7 +77,7 @@ AfterEffects|AfterEffects
 :-:|:-:
 <a href="https://github.com/aizwellenstan/AfterEffects_FX_RainDrop"><img src="https://github.com/aizwellenstan/AfterEffects_FX_RainDrop/blob/master/raindrop.gif" width="400"/></a>|<a href="https://github.com/aizwellenstan/AfterEffects_FX_Decay"><img src="https://github.com/aizwellenstan/AfterEffects_FX_Decay/blob/master/decay.gif" width="400"/></a>
 
-Unity|Unreal
+Unity|Unreal Engine
 :-:|:-:
 <a href="https://aizwellenstan.github.io"><img src="https://github.com/aizwellenstan/unity_VRMViewer/blob/master/Assets/LiveV/Textures/CRS_Stage.png" height="200px"/></a>|<a href="https://github.com/aizwellenstan/unreal_neon_light_shader"><img src="https://github.com/aizwellenstan/unreal_neon_light_shader/blob/master/preview.gif" height="200px"/></a>
 
@@ -100,6 +100,7 @@ Unity|Unreal
 
 ![Maya](https://img.shields.io/badge/-Maya-000?&logo=Maya)
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?&logo=unrealengine)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
@@ -126,9 +127,8 @@ Unity|Unreal
 ![CentOS](https://img.shields.io/badge/-CentOS-000?&logo=CentOS)
 
 ### 👨‍💻 Cloud:
-
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 <p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS" height="60" style="vertical-align:top; margin:4px">
 <!-- <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
 <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" alt="Terraform" height="60" style="vertical-align:top; margin:4px"> -->
