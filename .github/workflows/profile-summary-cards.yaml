@@ -17,3 +17,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+      - uses: actions/checkout@v2
+      - uses: sarisia/actions-readme-feed@v1
+        with:
+          url: 'https://qiita.com/aizwellenstan/feed'
+          file: 'README.md'
+      - uses: sarisia/actions-commit@master
