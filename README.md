@@ -61,10 +61,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Oct 20 - [maya python select child joints](https://qiita.com/aizwellenstan/items/abdec02a262eb57e9e17)
 - Oct 19 - [unity recorder](https://qiita.com/aizwellenstan/items/6595c55fc209b5013d12)
 - Oct 19 - [unityアニメーションョンswitch](https://qiita.com/aizwellenstan/items/a80ceb95ae44516480e3)
 - Oct 18 - [unityカメラ360度回転](https://qiita.com/aizwellenstan/items/b8d993659c8bef54df9a)
-- Oct 18 - [unity vrm](https://qiita.com/aizwellenstan/items/437349d34ef18712b82c)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
