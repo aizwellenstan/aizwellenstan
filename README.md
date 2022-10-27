@@ -61,10 +61,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Oct 26 - [maya python humanIK retarget](https://qiita.com/aizwellenstan/items/e11584de28ac32908a0e)
+- Oct 26 - [maya python qt sample](https://qiita.com/aizwellenstan/items/dd3293608f91fe2a4f56)
 - Oct 21 - [MotionBuilder同じrigのアニメーションretarget](https://qiita.com/aizwellenstan/items/aad01e95fb1a7fcc0ba6)
 - Oct 20 - [maya python select child joints](https://qiita.com/aizwellenstan/items/abdec02a262eb57e9e17)
-- Oct 19 - [unity recorder](https://qiita.com/aizwellenstan/items/6595c55fc209b5013d12)
-- Oct 19 - [unityアニメーションョンswitch](https://qiita.com/aizwellenstan/items/a80ceb95ae44516480e3)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
