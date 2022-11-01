@@ -49,6 +49,9 @@
 <!-- [![Github](https://img.shields.io/github/followers/aizwellenstan?label=Follow&style=social)](https://github.com/aizwellenstan)
 [![Twitter](https://img.shields.io/twitter/follow/aizwellenstan?style=social)](https://twitter.com/aizwellenstan) -->
 
+## Unity Vtuber
+<a href="https://github.com/aizwellenstan/UnityURPToonLitShaderVRMArKitTemplate"><img src="https://github.com/aizwellenstan/UnityURPToonLitShaderVRMArKitTemplate/blob/master/AliciaPreview.gif" width="800"/></a>
+
 ### Start Your Algorithm Trading Using Python and InteractiveBrokers
 
 [Open InteractiveBrokers Account](https://ibkr.com/referral/zhenwei375)
