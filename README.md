@@ -64,10 +64,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Nov 01 - [Unity Vtuber を作ってみた](https://qiita.com/aizwellenstan/items/011fbdcff83e1ddbc137)
+- Nov 01 - [unity fbx export](https://qiita.com/aizwellenstan/items/0a5d032bd381c21a8a98)
 - Oct 30 - [VRM Memo](https://qiita.com/aizwellenstan/items/f755c76fed350ece71e1)
 - Oct 26 - [maya python humanIK retarget](https://qiita.com/aizwellenstan/items/e11584de28ac32908a0e)
-- Oct 26 - [maya python qt sample](https://qiita.com/aizwellenstan/items/dd3293608f91fe2a4f56)
-- Oct 21 - [MotionBuilder同じrigのアニメーションretarget](https://qiita.com/aizwellenstan/items/aad01e95fb1a7fcc0ba6)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
