@@ -52,6 +52,9 @@
 ## Unity Vtuber
 <a href="https://github.com/aizwellenstan/UnityURPToonLitShaderVRMArKitTemplate"><img src="https://github.com/aizwellenstan/UnityURPToonLitShaderVRMArKitTemplate/blob/master/AliciaPreview.gif" width="800"/></a>
 
+## Unity MMD
+<a href="https://github.com/aizwellenstan/UnityLiveStageTemplate"><img src="https://github.com/aizwellenstan/UnityLiveStageTemplate/blob/master/AliciaPreview.gif" width="800"/></a>
+
 ### Start Your Algorithm Trading Using Python and InteractiveBrokers
 
 [Open InteractiveBrokers Account](https://ibkr.com/referral/zhenwei375)
