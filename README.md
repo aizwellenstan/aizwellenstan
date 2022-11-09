@@ -64,10 +64,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Nov 09 - [check outbound ip address](https://qiita.com/aizwellenstan/items/beaa12ab4368530aabe2)
 - Nov 07 - [unity package template](https://qiita.com/aizwellenstan/items/2e046fc8f19cd8f54423)
 - Nov 01 - [Unity Vtuber を作ってみた](https://qiita.com/aizwellenstan/items/011fbdcff83e1ddbc137)
 - Nov 01 - [unity fbx export](https://qiita.com/aizwellenstan/items/0a5d032bd381c21a8a98)
-- Oct 30 - [VRM Memo](https://qiita.com/aizwellenstan/items/f755c76fed350ece71e1)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
