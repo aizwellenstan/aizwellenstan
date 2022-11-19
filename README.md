@@ -67,10 +67,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Nov 18 - [C++ 17 cmake コンパイル](https://qiita.com/aizwellenstan/items/5411f77e024e5160ff92)
+- Nov 18 - [maya mel search variable](https://qiita.com/aizwellenstan/items/57dc4c9e9961a134caec)
 - Nov 14 - [cron job](https://qiita.com/aizwellenstan/items/d7083270a9c1f23ce91f)
 - Nov 09 - [check outbound ip address](https://qiita.com/aizwellenstan/items/beaa12ab4368530aabe2)
-- Nov 07 - [unity package template](https://qiita.com/aizwellenstan/items/2e046fc8f19cd8f54423)
-- Nov 01 - [Unity Vtuber を作ってみた](https://qiita.com/aizwellenstan/items/011fbdcff83e1ddbc137)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
