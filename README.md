@@ -67,10 +67,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Nov 24 - [C++ run command](https://qiita.com/aizwellenstan/items/254d7df91d7e53042381)
 - Nov 23 - [git clone with submodules](https://qiita.com/aizwellenstan/items/7f6522de5fea0f09159b)
 - Nov 23 - [ubuntu cpu limit](https://qiita.com/aizwellenstan/items/38e7dee1efd44bd11442)
 - Nov 21 - [linux/windows copy and create destination dir if it does not exist (c++)](https://qiita.com/aizwellenstan/items/8ec10b6dbb7ff3bf76b9)
-- Nov 18 - [C++ 17 cmake コンパイル](https://qiita.com/aizwellenstan/items/5411f77e024e5160ff92)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
