@@ -67,10 +67,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Nov 29 - [amazon linux certbot セットアップ & renew](https://qiita.com/aizwellenstan/items/c124ff4f4ca88d813a9e)
 - Nov 28 - [maya python setShotInfo](https://qiita.com/aizwellenstan/items/6179dab45d02b7dba408)
 - Nov 24 - [C++ run command](https://qiita.com/aizwellenstan/items/254d7df91d7e53042381)
 - Nov 23 - [git clone with submodules](https://qiita.com/aizwellenstan/items/7f6522de5fea0f09159b)
-- Nov 23 - [ubuntu cpu limit](https://qiita.com/aizwellenstan/items/38e7dee1efd44bd11442)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
