@@ -67,10 +67,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Dec 01 - [linux set timezone, mysql check timezone](https://qiita.com/aizwellenstan/items/7e809405ab88a5de54fe)
+- Dec 01 - [SslSocket: cannot resolve SSLv2_client_method](https://qiita.com/aizwellenstan/items/14514aecb06cb3f9ce1b)
 - Nov 30 - [maya arnold missing either uvlist or uvidxs](https://qiita.com/aizwellenstan/items/acbfd85e9a14b9e4e531)
 - Nov 29 - [amazon linux certbot セットアップ & renew](https://qiita.com/aizwellenstan/items/c124ff4f4ca88d813a9e)
-- Nov 28 - [maya python setShotInfo](https://qiita.com/aizwellenstan/items/6179dab45d02b7dba408)
-- Nov 24 - [C++ run command](https://qiita.com/aizwellenstan/items/254d7df91d7e53042381)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
