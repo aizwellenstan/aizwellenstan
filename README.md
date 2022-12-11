@@ -67,10 +67,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Dec 10 - [python vars と functions](https://qiita.com/aizwellenstan/items/2acf5c273e901be6ac24)
 - Dec 09 - [Windowsローカルフォルダードライブのマウント](https://qiita.com/aizwellenstan/items/f6666001b652d4916b01)
 - Dec 07 - [maya shelf cant load](https://qiita.com/aizwellenstan/items/80d75588892f261a6740)
 - Dec 01 - [linux set timezone, mysql check timezone](https://qiita.com/aizwellenstan/items/7e809405ab88a5de54fe)
-- Dec 01 - [SslSocket: cannot resolve SSLv2_client_method](https://qiita.com/aizwellenstan/items/14514aecb06cb3f9ce1b)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
