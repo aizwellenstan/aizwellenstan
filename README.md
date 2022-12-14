@@ -67,10 +67,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Dec 14 - [pandas to_csv  OSError: [Errno 22] Invalid argument to use open(](https://qiita.com/aizwellenstan/items/c138b92016cb4a9dfeaf)
 - Dec 10 - [python vars と functions](https://qiita.com/aizwellenstan/items/2acf5c273e901be6ac24)
 - Dec 09 - [Windowsローカルフォルダードライブのマウント](https://qiita.com/aizwellenstan/items/f6666001b652d4916b01)
 - Dec 07 - [maya shelf cant load](https://qiita.com/aizwellenstan/items/80d75588892f261a6740)
-- Dec 01 - [linux set timezone, mysql check timezone](https://qiita.com/aizwellenstan/items/7e809405ab88a5de54fe)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
