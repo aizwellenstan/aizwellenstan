@@ -67,10 +67,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Dec 17 - [python numpy types](https://qiita.com/aizwellenstan/items/65bc599fb752da5201ba)
 - Dec 17 - [python DataFrame columns](https://qiita.com/aizwellenstan/items/c83684672923f9b15b36)
 - Dec 14 - [pmx to fbx blender](https://qiita.com/aizwellenstan/items/b0e04e21c9ff7af3ebef)
 - Dec 14 - [pandas to_csv  OSError: [Errno 22] Invalid argument to use open(](https://qiita.com/aizwellenstan/items/c138b92016cb4a9dfeaf)
-- Dec 10 - [python vars と functions](https://qiita.com/aizwellenstan/items/2acf5c273e901be6ac24)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
