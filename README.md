@@ -67,10 +67,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Dec 19 - [maya python export fbx](https://qiita.com/aizwellenstan/items/d033abceec44ee630a68)
+- Dec 19 - [maya python select all](https://qiita.com/aizwellenstan/items/ca8551c6133ee87f6e7a)
 - Dec 18 - [dataframe remove inf nan](https://qiita.com/aizwellenstan/items/e360410390ba81415931)
 - Dec 18 - [python array last n element](https://qiita.com/aizwellenstan/items/2851535eed912ad76e10)
-- Dec 17 - [python numpy types](https://qiita.com/aizwellenstan/items/65bc599fb752da5201ba)
-- Dec 17 - [python DataFrame columns](https://qiita.com/aizwellenstan/items/c83684672923f9b15b36)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
