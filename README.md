@@ -67,10 +67,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Dec 27 - [maya python dir mapping](https://qiita.com/aizwellenstan/items/15c9aa038124c08b5600)
 - Dec 26 - [ffmpegをダウンロードしたURL](https://qiita.com/aizwellenstan/items/48eb7b1109c7ef3e4ae1)
 - Dec 23 - [maya python visibility flags](https://qiita.com/aizwellenstan/items/e5dce7797aae0b785bc2)
 - Dec 23 - [AWS CPU 使用率アラームの作成](https://qiita.com/aizwellenstan/items/18fcd770829898bb849d)
-- Dec 21 - [python timecode to frame](https://qiita.com/aizwellenstan/items/048fefbcd6052b54dd83)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
