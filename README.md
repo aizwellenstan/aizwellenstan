@@ -67,10 +67,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
-- Dec 27 - [maya python dir mapping](https://qiita.com/aizwellenstan/items/15c9aa038124c08b5600)
-- Dec 26 - [ffmpegをダウンロードしたURL](https://qiita.com/aizwellenstan/items/48eb7b1109c7ef3e4ae1)
-- Dec 23 - [maya python visibility flags](https://qiita.com/aizwellenstan/items/e5dce7797aae0b785bc2)
-- Dec 23 - [AWS CPU 使用率アラームの作成](https://qiita.com/aizwellenstan/items/18fcd770829898bb849d)
+- Dec 29 - [C++ maya .ma scene file packager](https://qiita.com/aizwellenstan/items/fc282c445c3bed8fd774)
+- Dec 29 - [cpp copy folder and file, create folder if not exist](https://qiita.com/aizwellenstan/items/7df8651e673121dbc529)
+- Dec 29 - [c++ normalize filepath](https://qiita.com/aizwellenstan/items/4f0c4f86a46697d69a3d)
+- Dec 29 - [c++ create folder if not exist](https://qiita.com/aizwellenstan/items/2614273951cac7ff9998)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
