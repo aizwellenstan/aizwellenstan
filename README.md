@@ -67,10 +67,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Jan 02 - [c++ 最適化](https://qiita.com/aizwellenstan/items/0eb3090ae8aa2b7175b9)
 - Dec 30 - [python UnicodeDecodeError: 'ascii' codec can't decode byte xxxx in position 123: ordinal not in range(128)](https://qiita.com/aizwellenstan/items/6361091d857b4afaea8c)
 - Dec 29 - [C++ maya .ma scene file packager](https://qiita.com/aizwellenstan/items/fc282c445c3bed8fd774)
 - Dec 29 - [cpp copy folder and file, create folder if not exist](https://qiita.com/aizwellenstan/items/7df8651e673121dbc529)
-- Dec 29 - [c++ normalize filepath](https://qiita.com/aizwellenstan/items/4f0c4f86a46697d69a3d)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
