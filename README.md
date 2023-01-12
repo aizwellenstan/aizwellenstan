@@ -70,7 +70,7 @@ https://discord.gg/CbpUY5kg
 - Jan 09 - [python codec utf-8](https://qiita.com/aizwellenstan/items/eebaaa52cf329bd4cc98)
 - Jan 08 - [unity vrm](https://qiita.com/aizwellenstan/items/bfbf6989e3e40a9b2db8)
 - Jan 07 - [unity toon shader](https://qiita.com/aizwellenstan/items/3e2e595b059ce773c63e)
-- Jan 07 - [maya Cannot find procedure "CgAbBlastPanelOptChangeCallback](https://qiita.com/aizwellenstan/items/e532081260c858595194)
+- Jan 07 - [maya Cannot find procedure "CgAbBlastPanelOptChangeCallback Cannot find procedure "look" crash export mb](https://qiita.com/aizwellenstan/items/e532081260c858595194)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
