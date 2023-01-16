@@ -67,10 +67,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Jan 15 - [python replace string](https://qiita.com/aizwellenstan/items/96deb7b6fca3232023c2)
+- Jan 15 - [python remove last n from array](https://qiita.com/aizwellenstan/items/0fcc94841bb377eff5ce)
+- Jan 15 - [python enumarate](https://qiita.com/aizwellenstan/items/0b290fa50cc0c5af2dd8)
 - Jan 13 - [maya mel bake abc](https://qiita.com/aizwellenstan/items/4519153e72cb6b8e250a)
-- Jan 09 - [python codec utf-8](https://qiita.com/aizwellenstan/items/eebaaa52cf329bd4cc98)
-- Jan 08 - [unity vrm](https://qiita.com/aizwellenstan/items/bfbf6989e3e40a9b2db8)
-- Jan 07 - [unity toon shader](https://qiita.com/aizwellenstan/items/3e2e595b059ce773c63e)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
