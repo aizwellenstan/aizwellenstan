@@ -67,10 +67,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Jan 16 - [git stash single file](https://qiita.com/aizwellenstan/items/649c15819d95f4b68910)
 - Jan 15 - [python replace string](https://qiita.com/aizwellenstan/items/96deb7b6fca3232023c2)
 - Jan 15 - [python remove last n from array](https://qiita.com/aizwellenstan/items/0fcc94841bb377eff5ce)
 - Jan 15 - [python enumarate](https://qiita.com/aizwellenstan/items/0b290fa50cc0c5af2dd8)
-- Jan 13 - [maya mel bake abc](https://qiita.com/aizwellenstan/items/4519153e72cb6b8e250a)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
