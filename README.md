@@ -67,10 +67,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
-- Jan 18 - [UnrealCompling Shadersをかそくする](https://qiita.com/aizwellenstan/items/e867f7d09c5f5f41d94d)
-- Jan 17 - [Unity Gvoice to TRTC研究](https://qiita.com/aizwellenstan/items/0cdfe66aa4003bab5461)
-- Jan 17 - [Unity shader notes](https://qiita.com/aizwellenstan/items/e9a36ba1cdf969850f1c)
-- Jan 16 - [git stash single file](https://qiita.com/aizwellenstan/items/649c15819d95f4b68910)
+- Jan 20 - [python numpy filter](https://qiita.com/aizwellenstan/items/80c69a5179e501e63758)
+- Jan 20 - [python Dataframe datetime to string](https://qiita.com/aizwellenstan/items/b6878f4bf2d5d1b894f1)
+- Jan 20 - [python get business days between two dates](https://qiita.com/aizwellenstan/items/60ac79ede00fa63d363f)
+- Jan 20 - [python string to datetime](https://qiita.com/aizwellenstan/items/28847a6cf83fcbb23c30)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
