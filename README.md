@@ -67,10 +67,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Jan 26 - [python numpy 2d array filter](https://qiita.com/aizwellenstan/items/c2c5f9f43b085d00582c)
 - Jan 25 - [ロケーション](https://qiita.com/aizwellenstan/items/3326de7f84730474afc7)
 - Jan 20 - [python numpy filter](https://qiita.com/aizwellenstan/items/80c69a5179e501e63758)
 - Jan 20 - [python Dataframe datetime to string](https://qiita.com/aizwellenstan/items/b6878f4bf2d5d1b894f1)
-- Jan 20 - [python get business days between two dates](https://qiita.com/aizwellenstan/items/60ac79ede00fa63d363f)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
