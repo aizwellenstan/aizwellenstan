@@ -1,5 +1,11 @@
 [# 無料で株ゲット #IBKR * 100
 ＃Get 100 Shares #IBKR For Free](https://ibkr.com/referral/zhenwei375)
+- https://ibkr.com/referral/zhenwei375
+
+### Support Me
+- https://ibkr.com/referral/zhenwei375
+- https://ko-fi.com/traderaiz
+
 <table style="border:0px;">
   <tr>
     <td valign="top"><img alt="Visitors" src="https://komarev.com/ghpvc/?username=aizwellenstan&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/></td>
