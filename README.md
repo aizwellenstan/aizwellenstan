@@ -67,10 +67,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Jan 30 - [python nuke deadline submit](https://qiita.com/aizwellenstan/items/3262bf55766994f4cbc7)
+- Jan 30 - [python remove last n character form string](https://qiita.com/aizwellenstan/items/89008bf79a6302580238)
+- Jan 30 - [windows 日本語入力インストール](https://qiita.com/aizwellenstan/items/ca62af456ba848919686)
 - Jan 26 - [python numpy 2d array filter](https://qiita.com/aizwellenstan/items/c2c5f9f43b085d00582c)
-- Jan 25 - [ロケーション](https://qiita.com/aizwellenstan/items/3326de7f84730474afc7)
-- Jan 20 - [python numpy filter](https://qiita.com/aizwellenstan/items/80c69a5179e501e63758)
-- Jan 20 - [python Dataframe datetime to string](https://qiita.com/aizwellenstan/items/b6878f4bf2d5d1b894f1)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
