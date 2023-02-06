@@ -1,4 +1,4 @@
-[# 無料で株ゲット #IBKR * 100
+# 無料で株ゲット #IBKR * 100
 ＃[Get 100 Shares #IBKR For Free](https://ibkr.com/referral/zhenwei375)
 ### [https://ibkr.com/referral/zhenwei375](https://ibkr.com/referral/zhenwei375)
 
