@@ -73,10 +73,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Feb 07 - [maya get all assets (deadline's script)](https://qiita.com/aizwellenstan/items/51d139cb1bec76ea6213)
 - Feb 02 - [Youtubeビデオダンロード](https://qiita.com/aizwellenstan/items/18d280ce5810035a3d69)
 - Feb 02 - [Windows Javaインストール](https://qiita.com/aizwellenstan/items/581b14a6749c01e4b5ca)
 - Jan 31 - [python maya pymel 開始フレーム終了フレームを取得して、カメラにアトリビュート追加](https://qiita.com/aizwellenstan/items/a625e9525d231eb63a21)
-- Jan 31 - [python os environment variable](https://qiita.com/aizwellenstan/items/e6457c65548f09382ca2)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
