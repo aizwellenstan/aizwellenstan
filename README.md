@@ -6,6 +6,12 @@
 - https://ibkr.com/referral/zhenwei375
 - https://ko-fi.com/traderaiz
 
+<p align="center"> 
+  Toltal Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
+
+Today Visitors
 <table style="border:0px;">
   <tr>
     <td valign="top"><img alt="Visitors" src="https://komarev.com/ghpvc/?username=aizwellenstan&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/></td>
