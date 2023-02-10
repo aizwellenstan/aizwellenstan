@@ -7,7 +7,7 @@
 - https://ko-fi.com/traderaiz
 
 <p align="center"> 
-  Toltal Visitor count<br>
+  Toltal Visitors count<br>
   <img src="https://profile-counter.glitch.me/aizwellenstan/count.svg" />
 </p>
 
