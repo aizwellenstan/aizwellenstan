@@ -79,10 +79,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Feb 14 - [maya mel select all keyframes](https://qiita.com/aizwellenstan/items/880f5fa2b3594b448a90)
+- Feb 14 - [python maya select all nurbsCurve](https://qiita.com/aizwellenstan/items/7a97f6a5732c62f71164)
 - Feb 10 - [c++ file append/overwrite](https://qiita.com/aizwellenstan/items/92c2052a51277c66f0dd)
 - Feb 08 - [git filename too long](https://qiita.com/aizwellenstan/items/cfc32bf5aa46068bd163)
-- Feb 07 - [maya get all assets (deadline's script)](https://qiita.com/aizwellenstan/items/51d139cb1bec76ea6213)
-- Feb 02 - [Youtubeビデオダンロード](https://qiita.com/aizwellenstan/items/18d280ce5810035a3d69)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
