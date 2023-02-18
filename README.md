@@ -79,10 +79,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Feb 17 - [dataframe date to weekday](https://qiita.com/aizwellenstan/items/61fa4786e36c9eec4311)
+- Feb 17 - [python maya Minimize Rotation Curve](https://qiita.com/aizwellenstan/items/aff5e638101c5a4cd2fc)
 - Feb 15 - [# Error: NameError: file C:\Program Files\Autodesk\Maya2022\Python27\lib\site-packages\pymel\core\__init__.py line 77: name 'windows' is not defined](https://qiita.com/aizwellenstan/items/aa3fd17ddaa231460366)
 - Feb 14 - [maya mel select all keyframes](https://qiita.com/aizwellenstan/items/880f5fa2b3594b448a90)
-- Feb 14 - [python maya select all nurbsCurve](https://qiita.com/aizwellenstan/items/7a97f6a5732c62f71164)
-- Feb 10 - [c++ file append/overwrite](https://qiita.com/aizwellenstan/items/92c2052a51277c66f0dd)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
