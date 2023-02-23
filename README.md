@@ -79,10 +79,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Feb 22 - [python maya get all curves](https://qiita.com/aizwellenstan/items/e020cc0f69382ea720ad)
 - Feb 21 - [ビデオ字幕自動生成](https://qiita.com/aizwellenstan/items/3e26c36669fa09607322)
 - Feb 17 - [dataframe date to weekday](https://qiita.com/aizwellenstan/items/61fa4786e36c9eec4311)
 - Feb 17 - [python maya Minimize Rotation Curve](https://qiita.com/aizwellenstan/items/aff5e638101c5a4cd2fc)
-- Feb 15 - [# Error: NameError: file C:\Program Files\Autodesk\Maya2022\Python27\lib\site-packages\pymel\core\__init__.py line 77: name 'windows' is not defined](https://qiita.com/aizwellenstan/items/aa3fd17ddaa231460366)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
