@@ -79,10 +79,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Feb 23 - [maya python get all keyframe](https://qiita.com/aizwellenstan/items/8182c8fa0f7b88ce3de5)
 - Feb 22 - [python maya get all curves](https://qiita.com/aizwellenstan/items/e020cc0f69382ea720ad)
 - Feb 21 - [ビデオ字幕自動生成](https://qiita.com/aizwellenstan/items/3e26c36669fa09607322)
 - Feb 17 - [dataframe date to weekday](https://qiita.com/aizwellenstan/items/61fa4786e36c9eec4311)
-- Feb 17 - [python maya Minimize Rotation Curve](https://qiita.com/aizwellenstan/items/aff5e638101c5a4cd2fc)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
