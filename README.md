@@ -79,10 +79,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Mar 09 - [python maya remove all except joints](https://qiita.com/aizwellenstan/items/402e567f4bfb102ee27d)
 - Mar 07 - [ssh コメント執行](https://qiita.com/aizwellenstan/items/e4dc523404f40eaae06c)
 - Feb 24 - [python maya unlock attributes](https://qiita.com/aizwellenstan/items/f50377113bcb48edc172)
 - Feb 23 - [maya python get all keyframe](https://qiita.com/aizwellenstan/items/8182c8fa0f7b88ce3de5)
-- Feb 22 - [python maya get all curves](https://qiita.com/aizwellenstan/items/e020cc0f69382ea720ad)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
