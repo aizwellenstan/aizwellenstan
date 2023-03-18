@@ -79,10 +79,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Mar 17 - [Check missing faces](https://qiita.com/aizwellenstan/items/e81122d3adfbbae7178a)
 - Mar 16 - [python maya export scene to fbx](https://qiita.com/aizwellenstan/items/dd2cc1a3435dc3fb69e1)
 - Mar 16 - [maya unlock all attribute](https://qiita.com/aizwellenstan/items/8dfee4e56be2a4f727d9)
 - Mar 14 - [install docker docker-compose on ubuntu](https://qiita.com/aizwellenstan/items/f28a2ee6f9bdf3c9f0dc)
-- Mar 09 - [python maya remove all except joints](https://qiita.com/aizwellenstan/items/402e567f4bfb102ee27d)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
