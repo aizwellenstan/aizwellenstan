@@ -79,10 +79,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Mar 27 - [python maya remove vaccine](https://qiita.com/aizwellenstan/items/e9c3c7d6aeb1d437bf20)
+- Mar 27 - [python maya cmds.file export](https://qiita.com/aizwellenstan/items/00e0ebaeb98ea58423b5)
 - Mar 25 - [php show error](https://qiita.com/aizwellenstan/items/6fb53c6658d8d5b7f43a)
 - Mar 25 - [docker-compose to localhost](https://qiita.com/aizwellenstan/items/67722f8244d6d9307c4a)
-- Mar 25 - [install nodejs on ubuntu](https://qiita.com/aizwellenstan/items/38000ca1a0e21098ab82)
-- Mar 24 - [mysql restore db](https://qiita.com/aizwellenstan/items/cb41613d62c2b4d7d3ac)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
