@@ -79,10 +79,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Mar 31 - [python maya change camera asceptRatio](https://qiita.com/aizwellenstan/items/2da78ec04d5572507db3)
 - Mar 30 - [python maya reference set namespace and transform](https://qiita.com/aizwellenstan/items/63a24e29b60535467178)
 - Mar 30 - [maya python dump ass transform](https://qiita.com/aizwellenstan/items/5951ac409390e73be06b)
 - Mar 30 - [python maya reload ass](https://qiita.com/aizwellenstan/items/d2037fb7fd6b9020a7a6)
-- Mar 27 - [python maya remove vaccine](https://qiita.com/aizwellenstan/items/e9c3c7d6aeb1d437bf20)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
