@@ -1,10 +1,4 @@
 # あなたのハートにエクスプロージョン
-＃[Get 100 Shares #IBKR For Free](https://ibkr.com/referral/zhenwei375)
-### [https://ibkr.com/referral/zhenwei375](https://ibkr.com/referral/zhenwei375)
-
-### Support Me
-- https://ibkr.com/referral/zhenwei375
-- https://ko-fi.com/traderaiz
 
 <p align="center"> 
   Toltal Visitors count<br>
