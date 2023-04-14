@@ -73,10 +73,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Apr 13 - [python maya move cam to the top of the DAG (Directed Acyclic Graph) hierarchy](https://qiita.com/aizwellenstan/items/fb4f94502b440b32a66e)
 - Apr 10 - [python maya list topNode](https://qiita.com/aizwellenstan/items/77cf23efc46138e1daa2)
 - Mar 31 - [python maya change camera asceptRatio](https://qiita.com/aizwellenstan/items/2da78ec04d5572507db3)
 - Mar 30 - [python maya reference set namespace and transform](https://qiita.com/aizwellenstan/items/63a24e29b60535467178)
-- Mar 30 - [maya python dump ass transform](https://qiita.com/aizwellenstan/items/5951ac409390e73be06b)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
