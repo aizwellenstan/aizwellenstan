@@ -73,10 +73,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Apr 25 - [python maya xgen batch render](https://qiita.com/aizwellenstan/items/998b892c4d9110040be5)
 - Apr 23 - [bat gcc build sample & remain in same folder](https://qiita.com/aizwellenstan/items/f0c2ea1df561c3e377d6)
 - Apr 23 - [mingw setup ](https://qiita.com/aizwellenstan/items/85b8e5a2d180b38be465)
 - Apr 21 - [maya python xgenm set auxRenderPatch](https://qiita.com/aizwellenstan/items/a1f0b86f61c6b0e6998a)
-- Apr 13 - [python maya move cam to the top of the DAG (Directed Acyclic Graph) hierarchy](https://qiita.com/aizwellenstan/items/fb4f94502b440b32a66e)
 <!-- feed end -->
 
 <summary>💻 GitHub Profile Stats</summary>
