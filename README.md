@@ -75,6 +75,12 @@ Python Option Stock TradingRobot|TradingRobot
 register Interactive Broker https://ibkr.com/referral/zhenwei375|https://www.mql5.com/en/market/product/63652
 https://discord.gg/CbpUY5kg
 
+<p align="center">
+  <a href="http://qiita.com/aizwellenstan"><img src="https://qiita-badge.apiapi.app/s/aizwellenstan/contributions.svg" height="17px;" /></a>
+  <a href="http://qiita.com/aizwellenstan"><img src="https://qiita-badge.apiapi.app/s/aizwellenstan/posts.svg" height="17px;" /></a>
+  <a href="http://qiita.com/aizwellenstan"><img src="https://qiita-badge.apiapi.app/s/aizwellenstan/followers.svg" height="17px;" /></a>
+<p>
+
 ### Latest Posts
 <!-- feed start -->
 - Apr 27 - [python maya current frame](https://qiita.com/aizwellenstan/items/ae4f0750bc0586e61c57)
@@ -220,11 +226,6 @@ Unreal Engine
   <a>　</a> -->
   <a href="https://qiita.com/aizwellenstan"><img src="https://user-images.githubusercontent.com/39142850/88427408-cf994500-ce2d-11ea-9125-a41bc9f0bb2e.png" width="53px;" /></a><a>　</a>
   <p>
-<p align="center">
-  <a href="http://qiita.com/aizwellenstan"><img src="https://qiita-badge.apiapi.app/s/aizwellenstan/contributions.svg" height="17px;" /></a>
-  <a href="http://qiita.com/aizwellenstan"><img src="https://qiita-badge.apiapi.app/s/aizwellenstan/posts.svg" height="17px;" /></a>
-  <a href="http://qiita.com/aizwellenstan"><img src="https://qiita-badge.apiapi.app/s/aizwellenstan/followers.svg" height="17px;" /></a>
-<p>
 </details>
 
 
