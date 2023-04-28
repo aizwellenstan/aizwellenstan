@@ -83,16 +83,6 @@ https://discord.gg/CbpUY5kg
 - Apr 23 - [bat gcc build sample & remain in same folder](https://qiita.com/aizwellenstan/items/f0c2ea1df561c3e377d6)
 <!-- feed end -->
 
-<summary>💻 GitHub Profile Stats</summary>
-<a href="https://github.com/aizwellenstan/github-readme-stats"><img alt="aizwellenstan's Github Stats" src="https://github-readme-stats.aizwellenstan.vercel.app/api/?username=aizwellenstan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFAFA" height="192px"/></a>
-
-[![](https://raw.githubusercontent.com/aizwellenstan/aizwellenstan/master/profile-summary-card-output/radical/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/aizwellenstan/aizwellenstan/master/profile-summary-card-output/radical/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/aizwellenstan/aizwellenstan/master/profile-summary-card-output/radical/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-![](https://komarev.com/ghpvc/?username=aizwellenstan&color=green)
-<br/>
-<a href="https://github.com/aizwellenstan/github-readme-stats"><img alt="aizwellenstan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aizwellenstan&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-
 Photoshop|Photoshop
 :-:|:-:
 <a href="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order"><img src="https://github.com/aizwellenstan/Photoshop-Fate-Grand-Order/blob/master/FateGrandOrder.png" width=500/></a>|<a href="https://github.com/aizwellenstan/Photoshop_Old_Paper_Texture_Effect"><img src="https://github.com/aizwellenstan/Photoshop_Old_Paper_Texture_Effect/blob/master/samune.png" width=500/></a>
@@ -178,14 +168,8 @@ Unreal Engine
 <!-- <b>🔥 Github Streaks</b>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aizwellenstan&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="aizwellenstan" /></p> -->
 
-## 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="aizwellenstan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aizwellenstan&theme=monokai-metallian&hide_border=true"/>
-</p>
 
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 
 ## 📊 Github stats
@@ -193,12 +177,27 @@ Unreal Engine
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
+<a href="https://github.com/aizwellenstan/github-readme-stats"><img alt="aizwellenstan's Github Stats" src="https://github-readme-stats.aizwellenstan.vercel.app/api/?username=aizwellenstan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFAFA" height="192px"/></a>
+
+[![](https://raw.githubusercontent.com/aizwellenstan/aizwellenstan/master/profile-summary-card-output/radical/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/aizwellenstan/aizwellenstan/master/profile-summary-card-output/radical/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/aizwellenstan/aizwellenstan/master/profile-summary-card-output/radical/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://komarev.com/ghpvc/?username=aizwellenstan&color=green)
+<br/>
+<a href="https://github.com/aizwellenstan/github-readme-stats"><img alt="aizwellenstan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aizwellenstan&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  ## 🔥 Streak stats
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="aizwellenstan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aizwellenstan&theme=monokai-metallian&hide_border=true"/>
+</p>
+
+<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+  <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/aizwellenstan/github-readme-stats"><img alt="aizwellenstan's Github Stats" src="https://github-readme-stats.aizwellenstan.vercel.app/api/?username=aizwellenstan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFAFA" height="192px"/></a>
   <a href="https://github.com/aizwellenstan/github-readme-stats"><img alt="aizwellenstan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aizwellenstan&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="aizwellenstan's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=aizwellenstan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
@@ -226,6 +225,9 @@ Unreal Engine
   <a href="http://qiita.com/aizwellenstan"><img src="https://qiita-badge.apiapi.app/s/aizwellenstan/posts.svg" height="17px;" /></a>
   <a href="http://qiita.com/aizwellenstan"><img src="https://qiita-badge.apiapi.app/s/aizwellenstan/followers.svg" height="17px;" /></a>
 <p>
+</details>
+
+
 
 <p align="center"> 
   <!--Toltal Visitors count<br>-->
