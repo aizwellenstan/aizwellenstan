@@ -1,5 +1,3 @@
-# あなたのハートにエクスプロージョン
-
 <p align="center"> 
   Toltal Visitors count<br>
   <img src="https://profile-counter.glitch.me/aizwellenstan/count.svg" />
