@@ -1,13 +1,7 @@
 # Support Me
 https://ibkr.com/referral/zhenwei375
 
-
-
-<p align="center"> 
-  Toltal Visitors count<br>
-  <img src="https://profile-counter.glitch.me/aizwellenstan/count.svg" />
-</p>
-
+<!--
 Today Visitors
 <table style="border:0px;">
   <tr>
@@ -16,6 +10,8 @@ Today Visitors
 </td>
   </tr>
 </table>
+-->
+
 <h3 align="center">
   Welcome to aizwellenstan's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -225,3 +221,8 @@ Unreal Engine
   <a href="http://qiita.com/aizwellenstan"><img src="https://qiita-badge.apiapi.app/s/aizwellenstan/posts.svg" height="17px;" /></a>
   <a href="http://qiita.com/aizwellenstan"><img src="https://qiita-badge.apiapi.app/s/aizwellenstan/followers.svg" height="17px;" /></a>
 <p>
+
+<p align="center"> 
+  <!--Toltal Visitors count<br>-->
+  <img src="https://profile-counter.glitch.me/aizwellenstan/count.svg" />
+</p>
