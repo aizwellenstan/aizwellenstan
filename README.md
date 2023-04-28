@@ -12,15 +12,18 @@ Today Visitors
 </table>
 -->
 
+<!--
 <h3 align="center">
   Welcome to aizwellenstan's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
+-->
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!--
 <p align="center">
   <a href="https://github.com/Aizwellenstan/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Technical%20Director;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
+-->
 
 <!-- Social icons section -->
 <p align="center">
@@ -56,15 +59,17 @@ Today Visitors
 <!-- [![Github](https://img.shields.io/github/followers/aizwellenstan?label=Follow&style=social)](https://github.com/aizwellenstan)
 [![Twitter](https://img.shields.io/twitter/follow/aizwellenstan?style=social)](https://twitter.com/aizwellenstan) -->
 
-## Unity Vtuber
-<a href="https://github.com/aizwellenstan/UnityURPToonLitShaderVRMArKitTemplate"><img src="https://github.com/aizwellenstan/UnityURPToonLitShaderVRMArKitTemplate/blob/master/AliciaPreview.gif" width="800"/></a>
+## Unity ARkit
+<a href="https://github.com/aizwellenstan/UnityURPToonLitShaderVRMArKitTemplate"><img src="https://github.com/aizwellenstan/UnityURPToonLitShaderVRMArKitTemplate/blob/master/AliciaPreview.gif" width="200"/></a>
 
+<!--
 ## Unity Live
 <a href="https://github.com/aizwellenstan/UnityLiveStageURPTemplate"><img src="https://github.com/aizwellenstan/UnityLiveStageURPTemplate/blob/master/Preview.gif" width="800"/></a>
+-->
 
 ### Start Your Algorithm Trading Using Python and InteractiveBrokers
 
-Python USStock/JPStock TradingRobot|Crypto/ETF/Metals/Oil/Gas/ForexTradingRobot
+Python Option Stock TradingRobot|TradingRobot
 :-:|:-:
 <a href="https://www.youtube.com/channel/UC4fZRTNdAcHJMDm71MyMkew?sub_confirmation=1" /><img src="https://github.com/aizwellenstan/python-Stock-trading-robot-Interactive-Broker/blob/master/Youtube.png" width="700px"/></a>|<a href="https://www.mql5.com/en/market/product/63652" /><img src="https://c.mql5.com/31/585/traderaizbtpprodayscalper-screen-6753.png"/></a>
 register Interactive Broker https://ibkr.com/referral/zhenwei375|https://www.mql5.com/en/market/product/63652
