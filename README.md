@@ -83,10 +83,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Apr 28 - [terraform aws](https://qiita.com/aizwellenstan/items/fb66863555a91a43f895)
+- Apr 28 - [mingw64 windows インストール](https://qiita.com/aizwellenstan/items/92a43d2d75aad2855ea8)
 - Apr 27 - [python maya current frame](https://qiita.com/aizwellenstan/items/ae4f0750bc0586e61c57)
 - Apr 27 - [python maya minmize rotation curve](https://qiita.com/aizwellenstan/items/e19e8491c1fb9cfa17a3)
-- Apr 25 - [python maya xgen batch render](https://qiita.com/aizwellenstan/items/998b892c4d9110040be5)
-- Apr 23 - [bat gcc build sample & remain in same folder](https://qiita.com/aizwellenstan/items/f0c2ea1df561c3e377d6)
 <!-- feed end -->
 
 Photoshop|Photoshop
