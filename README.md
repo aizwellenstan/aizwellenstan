@@ -83,10 +83,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- May 03 - [python maya delete all keys](https://qiita.com/aizwellenstan/items/2c53841cae1d5b6709d3)
+- May 03 - [python maya rename joints](https://qiita.com/aizwellenstan/items/df6d3d279ee943e18684)
+- May 03 - [python maya get all joint with keys](https://qiita.com/aizwellenstan/items/c9af499bcf0984ccc985)
 - Apr 28 - [terraform aws](https://qiita.com/aizwellenstan/items/fb66863555a91a43f895)
-- Apr 28 - [mingw64 windows インストール](https://qiita.com/aizwellenstan/items/92a43d2d75aad2855ea8)
-- Apr 27 - [python maya current frame](https://qiita.com/aizwellenstan/items/ae4f0750bc0586e61c57)
-- Apr 27 - [python maya minmize rotation curve](https://qiita.com/aizwellenstan/items/e19e8491c1fb9cfa17a3)
 <!-- feed end -->
 
 Photoshop|Photoshop
