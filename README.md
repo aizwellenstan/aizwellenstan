@@ -83,10 +83,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- May 08 - [ffmpeg export wav](https://qiita.com/aizwellenstan/items/b653895c76cd70faba22)
 - May 04 - [python motionbuilder rename joints](https://qiita.com/aizwellenstan/items/31fcd5d8ebac6e862da7)
 - May 03 - [python maya delete all keys](https://qiita.com/aizwellenstan/items/2c53841cae1d5b6709d3)
 - May 03 - [python maya rename joints](https://qiita.com/aizwellenstan/items/df6d3d279ee943e18684)
-- May 03 - [python maya get all joint with keys](https://qiita.com/aizwellenstan/items/c9af499bcf0984ccc985)
 <!-- feed end -->
 
 Photoshop|Photoshop
