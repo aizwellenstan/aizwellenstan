@@ -83,10 +83,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- May 11 - [python maya export fbx](https://qiita.com/aizwellenstan/items/19425cece2025d3992a8)
 - May 10 - [python maya change namespace](https://qiita.com/aizwellenstan/items/78319d7f272591f200b2)
 - May 10 - [python maya luncher](https://qiita.com/aizwellenstan/items/59f5544072a15cf982e7)
 - May 08 - [ffmpeg export wav](https://qiita.com/aizwellenstan/items/b653895c76cd70faba22)
-- May 04 - [python motionbuilder rename joints](https://qiita.com/aizwellenstan/items/31fcd5d8ebac6e862da7)
 <!-- feed end -->
 
 Photoshop|Photoshop
