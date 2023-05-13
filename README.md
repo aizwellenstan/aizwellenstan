@@ -83,10 +83,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- May 12 - [nginx proxy setup](https://qiita.com/aizwellenstan/items/42e3217998854bda4579)
 - May 11 - [python maya export fbx](https://qiita.com/aizwellenstan/items/19425cece2025d3992a8)
 - May 10 - [python maya change namespace](https://qiita.com/aizwellenstan/items/78319d7f272591f200b2)
 - May 10 - [python maya luncher](https://qiita.com/aizwellenstan/items/59f5544072a15cf982e7)
-- May 08 - [ffmpeg export wav](https://qiita.com/aizwellenstan/items/b653895c76cd70faba22)
 <!-- feed end -->
 
 Photoshop|Photoshop
