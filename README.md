@@ -83,10 +83,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- May 22 - [python maya mod userSetup (mtoa)](https://qiita.com/aizwellenstan/items/6249fe54cd9c9e1c6b32)
 - May 17 - [python maya userSetup](https://qiita.com/aizwellenstan/items/5dac53152df894d6640e)
 - May 15 - [maya c++ チュートリアル](https://qiita.com/aizwellenstan/items/31a6e62aaad7fd234c34)
 - May 12 - [nginx proxy setup](https://qiita.com/aizwellenstan/items/42e3217998854bda4579)
-- May 11 - [python maya export fbx](https://qiita.com/aizwellenstan/items/19425cece2025d3992a8)
 <!-- feed end -->
 
 Photoshop|Photoshop
