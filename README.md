@@ -83,10 +83,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Jun 15 - [os make dir all permission](https://qiita.com/aizwellenstan/items/3c30ac678c3f833e17bb)
 - May 29 - [python maya create nurbs curvs and at to control sets](https://qiita.com/aizwellenstan/items/816efb8dbb481af167f4)
 - May 27 - [python dict get first key, vlaue](https://qiita.com/aizwellenstan/items/296bd9e45f4bee3637f8)
 - May 26 - [テクスチャ素材](https://qiita.com/aizwellenstan/items/b9b865f1824d1f8f8c97)
-- May 23 - [git config username](https://qiita.com/aizwellenstan/items/00fdcc4ab1c993df8c19)
 <!-- feed end -->
 
 Photoshop|Photoshop
