@@ -83,10 +83,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Jun 19 - [python maya fps](https://qiita.com/aizwellenstan/items/2b1c286392fa9c8ae969)
+- Jun 19 - [python yaml load](https://qiita.com/aizwellenstan/items/66a9535787e705126ad1)
 - Jun 18 - [python add list dict](https://qiita.com/aizwellenstan/items/7e2810bd9740392ce515)
 - Jun 15 - [os make dir all permission](https://qiita.com/aizwellenstan/items/3c30ac678c3f833e17bb)
-- May 29 - [python maya create nurbs curvs and at to control sets](https://qiita.com/aizwellenstan/items/816efb8dbb481af167f4)
-- May 27 - [python dict get first key, vlaue](https://qiita.com/aizwellenstan/items/296bd9e45f4bee3637f8)
 <!-- feed end -->
 
 Photoshop|Photoshop
