@@ -1,5 +1,3 @@
-# Transform your trading experience with our Algorithmic Trading Solutions, offering fundamental data-driven decision-making, automated position sizing, and a streamlined process for convenient, efficient, and time-saving trading.
-
 # Pateron (TradingBot)
 https://patreon.com/TraderAiz
 
