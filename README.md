@@ -1,5 +1,4 @@
-# Pateron
-(TradingBot)
+# Pateron (TradingBot)
 https://patreon.com/TraderAiz
 
 # Support Me
