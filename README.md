@@ -87,10 +87,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Jun 28 - [python3 yaml](https://qiita.com/aizwellenstan/items/0f8adc066a8df7f7397a)
+- Jun 28 - [python maya filePathEditor get all reference file](https://qiita.com/aizwellenstan/items/064d058057648d89554c)
+- Jun 28 - [python maya xgen collect](https://qiita.com/aizwellenstan/items/70bf32bce396a01a93a2)
 - Jun 19 - [python maya fps](https://qiita.com/aizwellenstan/items/2b1c286392fa9c8ae969)
-- Jun 19 - [python yaml load](https://qiita.com/aizwellenstan/items/66a9535787e705126ad1)
-- Jun 18 - [python add list dict](https://qiita.com/aizwellenstan/items/7e2810bd9740392ce515)
-- Jun 15 - [os make dir all permission](https://qiita.com/aizwellenstan/items/3c30ac678c3f833e17bb)
 <!-- feed end -->
 
 Photoshop|Photoshop
