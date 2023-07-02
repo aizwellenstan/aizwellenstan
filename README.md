@@ -87,10 +87,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Jul 02 - [python reverse list](https://qiita.com/aizwellenstan/items/84a7fb0704a67374ecdc)
 - Jun 30 - [python version](https://qiita.com/aizwellenstan/items/94dcbfe0c6bdf3ae2c51)
 - Jun 30 - [python maya delete keys](https://qiita.com/aizwellenstan/items/cfeb4023584a0ed2a116)
 - Jun 30 - [python maya get min max key frame](https://qiita.com/aizwellenstan/items/83d2e21cbd0dc8260195)
-- Jun 28 - [python3 yaml](https://qiita.com/aizwellenstan/items/0f8adc066a8df7f7397a)
 <!-- feed end -->
 
 Photoshop|Photoshop
