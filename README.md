@@ -87,10 +87,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Jul 25 - [python subprocess cannot use a string pattern on a bytes-like object](https://qiita.com/aizwellenstan/items/442d7b6141571850eeb3)
+- Jul 25 - [mtoa5 make tx](https://qiita.com/aizwellenstan/items/c918ff252858559a7f52)
 - Jul 24 - [python maya current camera](https://qiita.com/aizwellenstan/items/96ba5191e43d005a5ef5)
 - Jul 14 - [python script directory](https://qiita.com/aizwellenstan/items/513b0399640fef1a0b62)
-- Jul 13 - [unity humaroid runtime retarget](https://qiita.com/aizwellenstan/items/ccd18d814379e34f4c36)
-- Jul 05 - [cpp readfile](https://qiita.com/aizwellenstan/items/8e688ed0999c339743d4)
 <!-- feed end -->
 
 Photoshop|Photoshop
