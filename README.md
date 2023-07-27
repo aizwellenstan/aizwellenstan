@@ -87,10 +87,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Jul 26 - [python mayaで全てのNURBS Curvesをセットに追加する](https://qiita.com/aizwellenstan/items/05801f19d4ae64aaf76c)
 - Jul 25 - [python subprocess cannot use a string pattern on a bytes-like object](https://qiita.com/aizwellenstan/items/442d7b6141571850eeb3)
 - Jul 25 - [mtoa5 make tx](https://qiita.com/aizwellenstan/items/c918ff252858559a7f52)
 - Jul 24 - [python maya current camera](https://qiita.com/aizwellenstan/items/96ba5191e43d005a5ef5)
-- Jul 14 - [python script directory](https://qiita.com/aizwellenstan/items/513b0399640fef1a0b62)
 <!-- feed end -->
 
 Photoshop|Photoshop
