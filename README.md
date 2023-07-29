@@ -87,10 +87,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Jul 28 - [UnicodeDecodeError: 'cp932' codec can't decode byte 0x87](https://qiita.com/aizwellenstan/items/da4a15686a8a96472452)
 - Jul 27 - [python maya More than one object matches name](https://qiita.com/aizwellenstan/items/7cb0feb9d6f0c6a1d816)
 - Jul 27 - [python maya add curves transform to sets](https://qiita.com/aizwellenstan/items/03a9fd09e423fbce1830)
 - Jul 26 - [python mayaで全てのNURBS Curvesをセットに追加する](https://qiita.com/aizwellenstan/items/05801f19d4ae64aaf76c)
-- Jul 25 - [python subprocess cannot use a string pattern on a bytes-like object](https://qiita.com/aizwellenstan/items/442d7b6141571850eeb3)
 <!-- feed end -->
 
 Photoshop|Photoshop
