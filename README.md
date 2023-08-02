@@ -87,10 +87,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Aug 01 - [python maya opionVar](https://qiita.com/aizwellenstan/items/65aae0a16f7229292063)
 - Jul 28 - [UnicodeDecodeError: 'cp932' codec can't decode byte 0x87](https://qiita.com/aizwellenstan/items/da4a15686a8a96472452)
 - Jul 27 - [python maya More than one object matches name](https://qiita.com/aizwellenstan/items/7cb0feb9d6f0c6a1d816)
 - Jul 27 - [python maya add curves transform to sets](https://qiita.com/aizwellenstan/items/03a9fd09e423fbce1830)
-- Jul 26 - [python mayaで全てのNURBS Curvesをセットに追加する](https://qiita.com/aizwellenstan/items/05801f19d4ae64aaf76c)
 <!-- feed end -->
 
 Photoshop|Photoshop
