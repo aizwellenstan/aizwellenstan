@@ -87,10 +87,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
-- Aug 01 - [python maya opionVar](https://qiita.com/aizwellenstan/items/65aae0a16f7229292063)
-- Jul 28 - [UnicodeDecodeError: 'cp932' codec can't decode byte 0x87](https://qiita.com/aizwellenstan/items/da4a15686a8a96472452)
-- Jul 27 - [python maya More than one object matches name](https://qiita.com/aizwellenstan/items/7cb0feb9d6f0c6a1d816)
-- Jul 27 - [python maya add curves transform to sets](https://qiita.com/aizwellenstan/items/03a9fd09e423fbce1830)
+- Aug 08 - [python dataframe get values by index](https://qiita.com/aizwellenstan/items/7bbefcc017428b7a40f7)
+- Aug 08 - [python find local package instead of global](https://qiita.com/aizwellenstan/items/a8b16c03e91c468b1663)
+- Aug 08 - [python upgrade package](https://qiita.com/aizwellenstan/items/496389606f9a0d0b9157)
+- Aug 08 - [maya command doc](https://qiita.com/aizwellenstan/items/ea7aac22ec93e1543393)
 <!-- feed end -->
 
 Photoshop|Photoshop
