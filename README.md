@@ -87,10 +87,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Aug 16 - [maya userSetup callback](https://qiita.com/aizwellenstan/items/9b83e511126b324dcd62)
 - Aug 11 - [python maya hud refresh ](https://qiita.com/aizwellenstan/items/4d669327892cb291b1d4)
 - Aug 08 - [python dataframe get values by index](https://qiita.com/aizwellenstan/items/7bbefcc017428b7a40f7)
 - Aug 08 - [python find local package instead of global](https://qiita.com/aizwellenstan/items/a8b16c03e91c468b1663)
-- Aug 08 - [python upgrade package](https://qiita.com/aizwellenstan/items/496389606f9a0d0b9157)
 <!-- feed end -->
 
 Photoshop|Photoshop
