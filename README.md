@@ -87,10 +87,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Sep 06 - [Maya CgAbBlastPanelOptChangeCallback](https://qiita.com/aizwellenstan/items/9402e1d1dbe0089c9bcc)
 - Aug 22 - [python maya export import Set](https://qiita.com/aizwellenstan/items/d3294fd435365eae45f1)
 - Aug 16 - [maya userSetup callback](https://qiita.com/aizwellenstan/items/9b83e511126b324dcd62)
 - Aug 11 - [python maya hud refresh ](https://qiita.com/aizwellenstan/items/4d669327892cb291b1d4)
-- Aug 08 - [python dataframe get values by index](https://qiita.com/aizwellenstan/items/7bbefcc017428b7a40f7)
 <!-- feed end -->
 
 Photoshop|Photoshop
