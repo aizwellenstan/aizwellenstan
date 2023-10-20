@@ -87,10 +87,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Oct 19 - [shell array loop](https://qiita.com/aizwellenstan/items/c34fc2f41ad95018c737)
 - Oct 12 - [sql select unique val](https://qiita.com/aizwellenstan/items/9379a73b7cc87a809ac4)
 - Sep 06 - [Maya CgAbBlastPanelOptChangeCallback](https://qiita.com/aizwellenstan/items/9402e1d1dbe0089c9bcc)
 - Aug 22 - [python maya export import Set](https://qiita.com/aizwellenstan/items/d3294fd435365eae45f1)
-- Aug 16 - [maya userSetup callback](https://qiita.com/aizwellenstan/items/9b83e511126b324dcd62)
 <!-- feed end -->
 
 Photoshop|Photoshop
