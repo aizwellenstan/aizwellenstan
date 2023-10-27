@@ -139,11 +139,11 @@ Unreal Engine
 ![Maya](https://img.shields.io/badge/-Maya-000?&logo=Maya)
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?&logo=unrealengine)
-<!-- ![Influxdb](https://img.shields.io/badge/-Influxdb-000?&logo=Influxdb) -->
-<!-- ![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot) -->
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 ![RubyOnRails](https://img.shields.io/badge/-RubyOnRails-000?&logo=RubyOnRails)
+<!-- ![Influxdb](https://img.shields.io/badge/-Influxdb-000?&logo=Influxdb) -->
+<!-- ![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot) -->
 <!-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform) -->
 
