@@ -113,40 +113,39 @@ Unreal Engine
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![C#](https://img.shields.io/badge/-CSharp-000?&logo=CSharp)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 <!-- ![C](https://img.shields.io/badge/-C-000?&logo=C) -->
 <!-- ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396) -->
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
 
 
 ### Technologies
 
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Express](https://img.shields.io/badge/-Express-000?&logo=express)
+![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Apache](https://img.shields.io/badge/-Apache-000?&logo=Apache)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
 ![Maya](https://img.shields.io/badge/-Maya-000?&logo=Maya)
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?&logo=unrealengine)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000?&logo=express)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
-![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
 <!-- ![Influxdb](https://img.shields.io/badge/-Influxdb-000?&logo=Influxdb) -->
 <!-- ![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot) -->
-
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Apache](https://img.shields.io/badge/-Apache-000?&logo=Apache)
-![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 ![RubyOnRails](https://img.shields.io/badge/-RubyOnRails-000?&logo=RubyOnRails)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 <!-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform) -->
 
