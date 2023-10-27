@@ -131,7 +131,6 @@ Unreal Engine
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Express.js](https://img.shields.io/badge/-Express-000?&logo=express.js)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Apache](https://img.shields.io/badge/-Apache-000?&logo=Apache)
