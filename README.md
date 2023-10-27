@@ -1,7 +1,7 @@
 # Pateron (TradingBot)
 https://patreon.com/TraderAiz
 
-# Support Me
+# Free $
 https://ibkr.com/referral/zhenwei375
 
 <!--
