@@ -118,11 +118,10 @@ Unreal Engine
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
-<!-- ![C](https://img.shields.io/badge/-C-000?&logo=C) -->
-<!-- ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396) -->
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-
+<!-- ![C](https://img.shields.io/badge/-C-000?&logo=C) -->
+<!-- ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396) -->
 
 
 ### Technologies
