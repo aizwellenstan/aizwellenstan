@@ -87,10 +87,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Nov 07 - [nodeJS log with color](https://qiita.com/aizwellenstan/items/374fbf109a3d63cc1425)
 - Oct 31 - [npm i --legacy-peer-deps](https://qiita.com/aizwellenstan/items/4d017e2a328f29ab990b)
 - Oct 19 - [shell array loop](https://qiita.com/aizwellenstan/items/c34fc2f41ad95018c737)
 - Oct 12 - [sql select unique val](https://qiita.com/aizwellenstan/items/9379a73b7cc87a809ac4)
-- Sep 06 - [Maya CgAbBlastPanelOptChangeCallback](https://qiita.com/aizwellenstan/items/9402e1d1dbe0089c9bcc)
 <!-- feed end -->
 
 <!-- Photoshop|Photoshop
