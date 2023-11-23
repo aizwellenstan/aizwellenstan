@@ -87,10 +87,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Nov 22 - [flask return json](https://qiita.com/aizwellenstan/items/786c28baa07048331a91)
 - Nov 20 - [linux kill](https://qiita.com/aizwellenstan/items/9040c120636bbd619f6e)
 - Nov 07 - [nodeJS log with color](https://qiita.com/aizwellenstan/items/374fbf109a3d63cc1425)
 - Oct 31 - [npm i --legacy-peer-deps](https://qiita.com/aizwellenstan/items/4d017e2a328f29ab990b)
-- Oct 19 - [shell array loop](https://qiita.com/aizwellenstan/items/c34fc2f41ad95018c737)
 <!-- feed end -->
 
 <!-- Photoshop|Photoshop
