@@ -87,10 +87,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Dec 18 - [ ubuntu python install psycopg2](https://qiita.com/aizwellenstan/items/1dd3d44114fbbaef2cea)
+- Dec 18 - [python venvを作成](https://qiita.com/aizwellenstan/items/0750cb5584686cc68af2)
 - Dec 10 - [C++で文字列をトリミングする](https://qiita.com/aizwellenstan/items/7498e515bef27415696c)
 - Dec 01 - [google colab talib](https://qiita.com/aizwellenstan/items/425fe86ced748f80d5cd)
-- Nov 22 - [flask return json](https://qiita.com/aizwellenstan/items/786c28baa07048331a91)
-- Nov 20 - [linux kill](https://qiita.com/aizwellenstan/items/9040c120636bbd619f6e)
 <!-- feed end -->
 
 <!-- Photoshop|Photoshop
