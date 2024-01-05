@@ -87,10 +87,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Jan 04 - [SQL join](https://qiita.com/aizwellenstan/items/044c7125abefb44c2d47)
 - Dec 26 - [bash variable](https://qiita.com/aizwellenstan/items/d02ca8aaf7e1fa86a00f)
 - Dec 25 - [flask add UTF-8 support](https://qiita.com/aizwellenstan/items/a3fdc42932261378591f)
 - Dec 20 - [git store username](https://qiita.com/aizwellenstan/items/bba148c7e9fa38b321c8)
-- Dec 18 - [ ubuntu python install psycopg2](https://qiita.com/aizwellenstan/items/1dd3d44114fbbaef2cea)
 <!-- feed end -->
 
 <!-- Photoshop|Photoshop
