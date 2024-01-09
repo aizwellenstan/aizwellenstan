@@ -87,10 +87,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Jan 08 - [vim open two files and switch between panel](https://qiita.com/aizwellenstan/items/56f02489254b5283b609)
+- Jan 08 - [tmux split panel](https://qiita.com/aizwellenstan/items/4cd8faace0e73ae4fe53)
+- Jan 08 - [windows wsl linux ファイル交換](https://qiita.com/aizwellenstan/items/d069d47ea53af57e1028)
 - Jan 04 - [SQL join](https://qiita.com/aizwellenstan/items/044c7125abefb44c2d47)
-- Dec 26 - [bash variable](https://qiita.com/aizwellenstan/items/d02ca8aaf7e1fa86a00f)
-- Dec 25 - [flask add UTF-8 support](https://qiita.com/aizwellenstan/items/a3fdc42932261378591f)
-- Dec 20 - [git store username](https://qiita.com/aizwellenstan/items/bba148c7e9fa38b321c8)
 <!-- feed end -->
 
 <!-- Photoshop|Photoshop
