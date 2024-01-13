@@ -87,10 +87,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Jan 12 - [python try except line number](https://qiita.com/aizwellenstan/items/6b28662fc02695027675)
 - Jan 08 - [vim open two files and switch between panel](https://qiita.com/aizwellenstan/items/56f02489254b5283b609)
 - Jan 08 - [tmux split panel](https://qiita.com/aizwellenstan/items/4cd8faace0e73ae4fe53)
 - Jan 08 - [windows wsl linux ファイル交換](https://qiita.com/aizwellenstan/items/d069d47ea53af57e1028)
-- Jan 04 - [SQL join](https://qiita.com/aizwellenstan/items/044c7125abefb44c2d47)
 <!-- feed end -->
 
 <!-- Photoshop|Photoshop
