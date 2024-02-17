@@ -87,10 +87,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Feb 16 - [PostgreSQL analysis](https://qiita.com/aizwellenstan/items/0c8dd0ddfb6a6cee46cf)
 - Jan 29 - [ubuntu install docker](https://qiita.com/aizwellenstan/items/3e79d15aee56d8b4e405)
 - Jan 12 - [python try except line number](https://qiita.com/aizwellenstan/items/6b28662fc02695027675)
 - Jan 08 - [vim open two files and switch between panel](https://qiita.com/aizwellenstan/items/56f02489254b5283b609)
-- Jan 08 - [tmux split panel](https://qiita.com/aizwellenstan/items/4cd8faace0e73ae4fe53)
 <!-- feed end -->
 
 <!-- Photoshop|Photoshop
