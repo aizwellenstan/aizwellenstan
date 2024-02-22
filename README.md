@@ -87,10 +87,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Feb 21 - [sql select with array](https://qiita.com/aizwellenstan/items/5e9c6889f661c08085cc)
 - Feb 20 - [sql select two different join on same date and case](https://qiita.com/aizwellenstan/items/b834db27b1d59689ae67)
 - Feb 16 - [PostgreSQL analysis](https://qiita.com/aizwellenstan/items/0c8dd0ddfb6a6cee46cf)
 - Jan 29 - [ubuntu install docker](https://qiita.com/aizwellenstan/items/3e79d15aee56d8b4e405)
-- Jan 12 - [python try except line number](https://qiita.com/aizwellenstan/items/6b28662fc02695027675)
 <!-- feed end -->
 
 <!-- Photoshop|Photoshop
