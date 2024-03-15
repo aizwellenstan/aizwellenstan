@@ -87,10 +87,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Mar 14 - [python google translate](https://qiita.com/aizwellenstan/items/f7928e3db8a75658c5ac)
+- Mar 14 - [plot stock graph](https://qiita.com/aizwellenstan/items/d748e1db36517c70a1b9)
 - Mar 04 - [sql subquery combine](https://qiita.com/aizwellenstan/items/d0543b7e87d14ff23d61)
 - Feb 21 - [sql select with array](https://qiita.com/aizwellenstan/items/5e9c6889f661c08085cc)
-- Feb 20 - [sql select two different join on same date and case](https://qiita.com/aizwellenstan/items/b834db27b1d59689ae67)
-- Feb 16 - [PostgreSQL analysis](https://qiita.com/aizwellenstan/items/0c8dd0ddfb6a6cee46cf)
 <!-- feed end -->
 
 <!-- Photoshop|Photoshop
