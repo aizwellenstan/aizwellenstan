@@ -87,10 +87,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Apr 02 - [sql datetime to str](https://qiita.com/aizwellenstan/items/8f3543d162322fdf543c)
+- Apr 02 - [pyarrow インストール](https://qiita.com/aizwellenstan/items/9446fa4898971da4cfdb)
 - Mar 31 - [vscode command](https://qiita.com/aizwellenstan/items/8fada4f1fefb33cf067c)
 - Mar 25 - [sql REPLACE CONCAT](https://qiita.com/aizwellenstan/items/ff76bbe77b85eddeed4d)
-- Mar 18 - [UnicodeDecodeError: 'cp950' codec can't decode byte 0x88 in position 114: illegal multibyte sequence](https://qiita.com/aizwellenstan/items/6d9e2dc30a66a479704c)
-- Mar 14 - [python google translate](https://qiita.com/aizwellenstan/items/f7928e3db8a75658c5ac)
 <!-- feed end -->
 
 <!-- Photoshop|Photoshop
