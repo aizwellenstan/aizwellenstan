@@ -87,10 +87,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Apr 04 - [python project path](https://qiita.com/aizwellenstan/items/abd1579005864eec48e8)
+- Apr 04 - [polars unique sort](https://qiita.com/aizwellenstan/items/e76a809cc43674cd9a2c)
 - Apr 02 - [sql datetime to str](https://qiita.com/aizwellenstan/items/8f3543d162322fdf543c)
 - Apr 02 - [pyarrow インストール](https://qiita.com/aizwellenstan/items/9446fa4898971da4cfdb)
-- Mar 31 - [vscode command](https://qiita.com/aizwellenstan/items/8fada4f1fefb33cf067c)
-- Mar 25 - [sql REPLACE CONCAT](https://qiita.com/aizwellenstan/items/ff76bbe77b85eddeed4d)
 <!-- feed end -->
 
 <!-- Photoshop|Photoshop
