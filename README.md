@@ -87,10 +87,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- May 13 - [spearmanr](https://qiita.com/aizwellenstan/items/791f97a80d5930227b1d)
 - May 03 - [icir](https://qiita.com/aizwellenstan/items/d05967d8c49eb71318d7)
 - May 03 - [linux check process run time](https://qiita.com/aizwellenstan/items/feaa3c04f4fb7113e4b2)
 - Apr 15 - [sql round](https://qiita.com/aizwellenstan/items/61ab6d9974c77f8cae2e)
-- Apr 11 - [Can't load plugin: sqlalchemy.dialects:duckdb](https://qiita.com/aizwellenstan/items/d0a5e2feabc5323678d5)
 <!-- feed end -->
 
 <!-- Photoshop|Photoshop
