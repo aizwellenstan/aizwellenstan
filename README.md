@@ -87,10 +87,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- May 30 - [numpy to json](https://qiita.com/aizwellenstan/items/b9af917d78d40c99e905)
 - May 27 - [sql date as string 'YYYY-MM-DD'](https://qiita.com/aizwellenstan/items/86393aa28d4af3b94cb5)
 - May 20 - [pandas replace string](https://qiita.com/aizwellenstan/items/42b030f5183b4f6c8207)
 - May 14 - [python create_folder_if_not_exists](https://qiita.com/aizwellenstan/items/3d5b030fea31aadf68f2)
-- May 13 - [spearmanr](https://qiita.com/aizwellenstan/items/791f97a80d5930227b1d)
 <!-- feed end -->
 
 <!-- Photoshop|Photoshop
