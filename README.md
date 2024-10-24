@@ -107,10 +107,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Oct 23 - [python flattern column for multi index](https://qiita.com/aizwellenstan/items/bc16c0e7a1d6ad72fb16)
 - Jun 29 - [df sort 2 values](https://qiita.com/aizwellenstan/items/d202cb56126710ba65f4)
 - May 30 - [numpy to json](https://qiita.com/aizwellenstan/items/b9af917d78d40c99e905)
 - May 27 - [sql date as string 'YYYY-MM-DD'](https://qiita.com/aizwellenstan/items/86393aa28d4af3b94cb5)
-- May 20 - [pandas replace string](https://qiita.com/aizwellenstan/items/42b030f5183b4f6c8207)
 <!-- feed end -->
 
 <!-- Photoshop|Photoshop
