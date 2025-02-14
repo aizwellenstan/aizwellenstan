@@ -107,10 +107,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Feb 13 - [Discord翻訳ボットを作った話](https://qiita.com/aizwellenstan/items/f1599c635e5a519f891e)
 - Dec 15 - [ Python/BAT を使ったフォルダ削除とアプリランチャー.exe の作成方法](https://qiita.com/aizwellenstan/items/e6add0cccb4769b3cf98)
 - Nov 23 - [python DataFrame drop head tail](https://qiita.com/aizwellenstan/items/6d59a574312a6041b8ac)
 - Nov 22 - [VSCode new Date('text') を 'text'に変換する正規表現](https://qiita.com/aizwellenstan/items/5f4db70ce0930a212853)
-- Oct 23 - [python flattern column for multi index](https://qiita.com/aizwellenstan/items/bc16c0e7a1d6ad72fb16)
 <!-- feed end -->
 
 <!-- Photoshop|Photoshop
