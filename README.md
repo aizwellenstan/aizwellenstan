@@ -107,10 +107,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Jun 06 - [mysql insert dubplicate but replace col](https://qiita.com/aizwellenstan/items/5abaa6f3ed2c7a04fad7)
 - May 12 - [mysql drop user](https://qiita.com/aizwellenstan/items/663ccfd503c7827dd63a)
 - May 06 - [MySQL エラー1175対処法 (SAFE UPDATE設定を変更せずにテーブルをUPDATEする方法)](https://qiita.com/aizwellenstan/items/dcd99e74db57aa8f4cf7)
 - Feb 17 - [mattermost docker](https://qiita.com/aizwellenstan/items/0eb11df07fc47b17cf3b)
-- Feb 14 - [Discord ボットのチャンネル別権限を制限する方法](https://qiita.com/aizwellenstan/items/55910e2897f365afd146)
 <!-- feed end -->
 
 <!-- Photoshop|Photoshop
