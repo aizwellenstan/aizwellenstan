@@ -107,10 +107,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Oct 11 - [pdf2word](https://qiita.com/aizwellenstan/items/bcdfaa35e5f1e1377291)
 - Jun 09 - [mysql update/delete items under safe update](https://qiita.com/aizwellenstan/items/d71637370fd1f18c407b)
 - Jun 06 - [mysql insert dubplicate but replace col](https://qiita.com/aizwellenstan/items/5abaa6f3ed2c7a04fad7)
 - May 12 - [mysql drop user](https://qiita.com/aizwellenstan/items/663ccfd503c7827dd63a)
-- May 06 - [MySQL エラー1175対処法 (SAFE UPDATE設定を変更せずにテーブルをUPDATEする方法)](https://qiita.com/aizwellenstan/items/dcd99e74db57aa8f4cf7)
 <!-- feed end -->
 
 <!-- Photoshop|Photoshop
