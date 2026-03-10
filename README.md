@@ -1,4 +1,6 @@
-# First Step to be a millionaire 👉 <a href="https://ibkr.com/referral/zhenwei375">https://ibkr.com/referral/zhenwei375</a>
+# First Step to be a millionaire 👉 <a href="https://refer.ig.com/zhenweih-26">https://refer.ig.com/zhenweih-26</a>
+<br>
+<a href="https://ibkr.com/referral/zhenwei375">https://ibkr.com/referral/zhenwei375</a>
 
 # Pateron (TradingBot)
 <a href="https://patreon.com/TraderAiz">https://patreon.com/TraderAiz</a>
