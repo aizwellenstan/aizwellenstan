@@ -134,6 +134,7 @@ Unreal Engine
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Rust](https://img.shields.io/badge/Rust-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![C#](https://img.shields.io/badge/-CSharp-000?&logo=CSharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
