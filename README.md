@@ -108,10 +108,10 @@ https://discord.gg/CbpUY5kg
 
 ### Latest Posts
 <!-- feed start -->
+- Jul 14 - [Macのターミナル起動が遅い？「sleep ◀ pyenv-rehash」でフリーズする原因と解決策](https://qiita.com/aizwellenstan/items/a8fd520d04c0895778fa)
 - Apr 14 - [アルゴリズム基礎：学習リソース・ガイド](https://qiita.com/aizwellenstan/items/18c8f1af50a09797981f)
 - Mar 24 - [四季報、残高](https://qiita.com/aizwellenstan/items/9318aad08ecc729e7a7e)
 - Feb 27 - [aws delete log](https://qiita.com/aizwellenstan/items/0320757a8da28ffd391e)
-- Feb 22 - [STOCKPRICEJP](https://qiita.com/aizwellenstan/items/8b0592233000a12522c9)
 <!-- feed end -->
 
 <!-- Photoshop|Photoshop
