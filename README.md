@@ -9,7 +9,9 @@
 
 <!-- LAPRAS-STATS:START -->
 <div align="center">
-  <img src="./lapras-card.svg" alt="LAPRAS Stats Card" width="100%" />
+  <a href="https://lapras.com/public/aizwellenstan">
+    <img src="./lapras-card.svg" alt="LAPRAS Stats Card" width="100%" />
+  </a>
 </div>
 <!-- LAPRAS-STATS:END -->
 
