@@ -7,14 +7,6 @@
 # Free $
 <a href="https://ibkr.com/referral/zhenwei375">https://ibkr.com/referral/zhenwei375</a>
 
-<!-- LAPRAS-STATS:START -->
-<div align="center">
-  <a href="https://lapras.com/public/aizwellenstan" target="_blank" rel="noopener noreferrer">
-    <img src="./lapras-card.svg" alt="LAPRAS Stats Card" width="100%" />
-  </a>
-</div>
-<!-- LAPRAS-STATS:END -->
-
 <!--
 Today Visitors
 <table style="border:0px;">
@@ -69,6 +61,14 @@ Today Visitors
   <a href="https://github.com/aizwellenstan?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/aizwellenstan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
+
+<!-- LAPRAS-STATS:START -->
+<div align="center">
+  <a href="https://lapras.com/public/aizwellenstan" target="_blank" rel="noopener noreferrer">
+    <img src="./lapras-card.svg" alt="LAPRAS Stats Card" width="100%" />
+  </a>
+</div>
+<!-- LAPRAS-STATS:END -->
 
 <!-- [![Github](https://img.shields.io/github/followers/aizwellenstan?label=Follow&style=social)](https://github.com/aizwellenstan)
 [![Twitter](https://img.shields.io/twitter/follow/aizwellenstan?style=social)](https://twitter.com/aizwellenstan) -->
