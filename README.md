@@ -189,7 +189,7 @@ Unreal Engine
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
+<!-- <details>  -->
   <summary>💻 GitHub Profile Stats</summary>
 <a href="https://github.com/aizwellenstan/github-readme-stats"><img alt="aizwellenstan's Github Stats" src="https://github-readme-stats.aizwellenstan.vercel.app/api/?username=aizwellenstan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFAFA" height="192px"/></a>
 
