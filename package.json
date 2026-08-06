@@ -1,0 +1,10 @@
+{
+  "name": "lapras-stats-updater",
+  "version": "1.0.0",
+  "scripts": {
+    "scrape": "node scrape-full-html.js"
+  },
+  "dependencies": {
+    "puppeteer": "^22.0.0"
+  }
+}
