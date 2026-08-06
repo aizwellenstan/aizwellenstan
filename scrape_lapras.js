@@ -38,23 +38,23 @@ const puppeteer = require('puppeteer');
   const scoreX = 42.5 + ((scoreNum - 2.0) / 2.0) * (232.5 - 42.5);
   const triangleX = scoreX - 6.5;
 
-  // 2. GENERATE FULL CARD AS A SINGLE STANDALONE SVG IMAGE
+  // 2. GENERATE FULL CARD AS A WIDER STANDALONE SVG IMAGE (920px WIDE)
   const breakdownSvgRows = data.items.map((item, idx) => {
     const y = 50 + idx * 36;
     return `
       <text x="0" y="${y}" font-weight="bold" fill="#111111" font-size="14">${item.label}</text>
       <text x="120" y="${y}" font-weight="bold" fill="#111111" font-size="14" text-anchor="end">${item.value}</text>
-      <text x="140" y="${y}" fill="#333333" font-size="12">${item.source}</text>
+      <text x="145" y="${y}" fill="#333333" font-size="12">${item.source}</text>
     `;
   }).join('');
 
-  const fullCardSvg = `<svg width="800" height="300" viewBox="0 0 800 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  const fullCardSvg = `<svg width="920" height="300" viewBox="0 0 920 300" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
-    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Kaku Gothic ProN", "Noto Sans CJK JP", Meiryo, sans-serif; }
   </style>
 
   <!-- BACKGROUND CARD -->
-  <rect width="800" height="300" rx="16" fill="#EEF6FF"/>
+  <rect width="920" height="300" rx="16" fill="#EEF6FF"/>
 
   <!-- TOP HEADER -->
   <text x="24" y="32" font-size="14" font-weight="bold" fill="#2D3748">技術力スコア</text>
@@ -92,8 +92,8 @@ const puppeteer = require('puppeteer');
   </g>
   <text x="204" y="240" font-size="15" font-weight="bold" fill="#111111" text-anchor="middle">${data.rank}</text>
 
-  <!-- RIGHT BOX (BREAKDOWN) -->
-  <rect x="408" y="80" width="368" height="196" rx="12" fill="#FFFFFF"/>
+  <!-- RIGHT BOX (BREAKDOWN - EXPANDED TO 488px) -->
+  <rect x="408" y="80" width="488" height="196" rx="12" fill="#FFFFFF"/>
   <g transform="translate(428, 105)">
     <rect x="0" y="0" width="4" height="16" fill="#111111" rx="2"/>
     <text x="12" y="14" font-size="16" font-weight="bold" fill="#111111">内訳</text>
@@ -119,7 +119,7 @@ const puppeteer = require('puppeteer');
   );
 
   fs.writeFileSync(readmePath, updatedReadme);
-  console.log('Successfully generated lapras-card.svg and updated README.md!');
+  console.log('Successfully updated lapras-card.svg with wider breakdown area!');
 
   await browser.close();
 })();
