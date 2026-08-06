@@ -105,7 +105,7 @@ const puppeteer = require('puppeteer');
   fs.writeFileSync('lapras-card.svg', fullCardSvg);
 
   // 3. INJECT AN IMAGE TAG INTO README.MD
-  const markdownImg = `<div align="center">\n  <a href="https://lapras.com/public/aizwellenstan">\n    <img src="./lapras-card.svg" alt="LAPRAS Stats Card" width="100%" />\n  </a>\n</div>`;
+  const markdownImg = `<div align="center">\n  <a href="https://lapras.com/public/aizwellenstan" target="_blank" rel="noopener noreferrer">\n    <img src="./lapras-card.svg" alt="LAPRAS Stats Card" width="100%" />\n  </a>\n</div>`;
 
   const readmePath = 'README.md';
   let readme = fs.readFileSync(readmePath, 'utf8');
