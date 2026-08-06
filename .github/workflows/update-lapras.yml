@@ -23,7 +23,7 @@ jobs:
           node-version: '24'
 
       - name: Install Dependencies
-        run: npm ci
+        run: npm install
 
       - name: Run Scraper Script
         run: node scrape_lapras.js
