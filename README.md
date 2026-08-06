@@ -8,6 +8,31 @@
 <a href="https://ibkr.com/referral/zhenwei375">https://ibkr.com/referral/zhenwei375</a>
 
 <!-- LAPRAS-STATS:START -->
+<div align="center">
+<table border="0" cellpadding="16" cellspacing="0" width="100%" bgcolor="#EEF6FF">
+<tr>
+<td colspan="3" style="padding-bottom: 0px;">
+<font size="2" color="#2D3748"><b>技術力スコア</b></font><br/>
+<font size="5" color="#111111"><b>3.39</b></font> <font color="#718096" size="1"><u>v2.3.0</u></font>
+</td>
+</tr>
+<tr valign="top">
+<td width="48%" height="200" bgcolor="#FFFFFF" align="center" valign="middle">
+<svg data-v-f75cc0e2="" width="275" height="auto" viewBox="0 0 275 88" fill="none"><defs data-v-f75cc0e2=""><linearGradient id="linear_gradient" data-v-f75cc0e2=""><stop offset="0" stop-color="#1ED2E6" data-v-f75cc0e2=""></stop><stop offset="0.14" stop-color="#19B0E9" data-v-f75cc0e2=""></stop><stop offset="0.35" stop-color="#1280EE" data-v-f75cc0e2=""></stop><stop offset="0.45" stop-color="#0F6EF0" data-v-f75cc0e2=""></stop><stop offset="1" stop-color="#003296" data-v-f75cc0e2=""></stop></linearGradient></defs><mask id="fill_mask" style="mask-type:alpha;" maskUnits="userSpaceOnUse" x="0" y="0" width="275" height="76" data-v-f75cc0e2=""><path fill-rule="evenodd" clip-rule="evenodd" d="M274.149 76L274.149 74.611C233.382 71.4458 214.053 55.277 197.037 40.0867C192.939 36.4289 189.032 32.7793 185.258 29.2553C168.226 13.3482 153.934 -3.63977e-07 137.298 2.12263e-06C120.662 2.38067e-06 106.369 13.3483 89.3373 29.2553C85.564 32.7793 81.6563 36.4289 77.5589 40.0868C60.5431 55.277 41.2135 71.4459 0.446778 74.6111L0.446778 76L274.149 76Z" fill="rgb(0, 0, 0)" data-v-f75cc0e2=""></path></mask><g data-v-f75cc0e2="" mask="url(#fill_mask)"><rect data-v-f75cc0e2="" class="fill-rect-1" width="274" height="76" fill="#0F6EF0"></rect><rect data-v-f75cc0e2="" class="fill-rect-2 anim" x="0" width="274" height="76" style="transform: translateX(174.55px);" fill="rgb(215, 230, 245)"></rect></g><g data-v-f75cc0e2=""><line data-v-f75cc0e2="" x1="42.5" y1="0" x2="42.5" y2="1000" class="grid-line" stroke="rgba(255, 255, 255, 0.5)"></line><text data-v-f75cc0e2="" x="42.5" y="86" text-anchor="middle" class="grid-text">2.00</text></g><g data-v-f75cc0e2=""><line data-v-f75cc0e2="" x1="90" y1="0" x2="90" y2="1000" class="grid-line" stroke="rgba(255, 255, 255, 0.5)"></line><text data-v-f75cc0e2="" x="90" y="86" text-anchor="middle" class="grid-text">2.50</text></g><g data-v-f75cc0e2=""><line data-v-f75cc0e2="" x1="137.5" y1="0" x2="137.5" y2="1000" class="grid-line" stroke="rgba(255, 255, 255, 0.5)"></line><text data-v-f75cc0e2="" x="137.5" y="86" text-anchor="middle" class="grid-text">3.00</text></g><g data-v-f75cc0e2=""><line data-v-f75cc0e2="" x1="185" y1="0" x2="185" y2="1000" class="grid-line" stroke="rgba(255, 255, 255, 0.5)"></line><text data-v-f75cc0e2="" x="185" y="86" text-anchor="middle" class="grid-text">3.50</text></g><g data-v-f75cc0e2=""><line data-v-f75cc0e2="" x1="232.5" y1="0" x2="232.5" y2="1000" class="grid-line" stroke="rgba(255, 255, 255, 0.5)"></line><text data-v-f75cc0e2="" x="232.5" y="86" text-anchor="middle" class="grid-text">4.00</text></g><line data-v-f75cc0e2="" x1="144.133" y1="0" x2="144.133" y2="76" class="score-line anim" style="" stroke="rgb(255, 90, 95)"></line><path data-v-f75cc0e2="" d="M7.86602 11.25C7.48111 11.9167 6.51886 11.9167 6.13396 11.25L0.504801 1.5C0.119901 0.833331 0.601026 -1.20295e-06 1.37083 -1.13566e-06L12.6292 -1.51421e-07C13.399 -8.41225e-08 13.8801 0.833333 13.4952 1.5L7.86602 11.25Z" transform="translate(167.6500099658966 0)" class="score-triangle anim" fill="rgb(255, 90, 95)"></path></svg>
+<br/>
+<font size="3" color="#111111"><b>エンジニアの上位21.43%</b></font>
+</td>
+<td width="4%"></td>
+<td width="48%" height="200" bgcolor="#FFFFFF" valign="middle">
+<font size="3" color="#111111"><b>▌ 内訳</b></font>
+<br/><br/>
+<table border="0" cellpadding="4" cellspacing="0" width="100%">
+<tr><td><font color="#111111"><b>GitHub</b></font></td><td align="right"><font color="#111111"><b>3.38</b></font></td><td><font color="#333333" size="2">日々の活動量とリポジトリの内容</font></td></tr><tr><td><font color="#111111"><b>技術記事</b></font></td><td align="right"><font color="#111111"><b>3.30</b></font></td><td><font color="#333333" size="2">Zenn、Qiitaの記事の内容と反響、AIによる記事内容の評価</font></td></tr><tr><td><font color="#111111"><b>技術イベント</b></font></td><td align="right"><font color="#111111"><b>2.91</b></font></td><td><font color="#333333" size="2">技術系イベントの登壇と参加</font></td></tr><tr><td><font color="#111111"><b>タグ個数</b></font></td><td align="right"><font color="#111111"><b>3.43</b></font></td><td><font color="#333333" size="2">Lv6以上のスキルタグ数</font></td></tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
 <!-- LAPRAS-STATS:END -->
 
 <!--
