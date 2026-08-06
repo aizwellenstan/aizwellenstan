@@ -20,17 +20,17 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '24'
+          node-version: '22'
 
       - name: Install Dependencies
         run: npm install
 
       - name: Run Scraper Script
-        run: node scrape_lapras.js
+        run: node scrape-full-html.js
 
       - name: Commit and Push Changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add README.md
+          git add README.md lapras-card.svg
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update LAPRAS stats" && git push)
