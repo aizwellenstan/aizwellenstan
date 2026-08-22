@@ -40,7 +40,7 @@
     <line x1="174.55" y1="0" x2="174.55" y2="76" stroke="#FF5A5F" stroke-width="2"/>
     <path d="M7.86602 11.25C7.48111 11.9167 6.51886 11.9167 6.13396 11.25L0.504801 1.5C0.119901 0.833331 0.601026 0 1.37083 0L12.6292 0C13.399 0 13.8801 0.833333 13.4952 1.5L7.86602 11.25Z" transform="translate(168.05, 0)" fill="#FF5A5F"/>
   </g>
-  <text x="204" y="240" font-size="15" font-weight="bold" fill="#111111" text-anchor="middle">エンジニアの上位21.44%</text>
+  <text x="204" y="240" font-size="15" font-weight="bold" fill="#111111" text-anchor="middle">エンジニアの上位21.40%</text>
 
   <!-- RIGHT BOX (BREAKDOWN - EXPANDED TO 488px) -->
   <rect x="408" y="80" width="488" height="196" rx="12" fill="#FFFFFF"/>
